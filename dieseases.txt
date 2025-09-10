@@ -1,0 +1,660 @@
+add this data to section want to know about a disease
+1. Tuberculosis (TB)
+TB is an airborne bacterial infection primarily affecting the lungs. It spreads through droplets from coughs or sneezes.
+
+Symptoms: Persistent cough, fever, night sweats, weight loss.
+
+Prevention: Good ventilation, covering mouth while coughing, early testing, avoiding contact with TB patients, BCG vaccination.
+
+Medication: Isoniazid, rifampicin, ethambutol, pyrazinamide.
+
+Vaccine? BCG vaccine.
+
+2. Diabetes
+Chronic condition marked by high blood sugar due to inadequate insulin or resistance.
+
+Symptoms: Excessive thirst, frequent urination, unexplained fatigue, slow wound healing.
+
+Prevention: Exercise, balanced diet, regular health checkups, maintain healthy weight, limit sugar intake.
+
+Medication: Metformin, insulin, sulfonylureas.
+
+Vaccine? No vaccine.
+
+3. Cardiovascular Diseases
+Group of disorders including heart attack and stroke due to blocked vessels or heart issues.
+
+Symptoms: Chest pain, shortness of breath, dizziness, irregular heartbeat.
+
+Prevention: Stay active, quit smoking, control blood pressure, eat heart-friendly foods, regular screenings.
+
+Medication: Statins, beta-blockers, ACE inhibitors.
+
+Vaccine? No vaccine.
+
+4. Malaria
+Mosquito-borne infection causing fever and potentially fatal complications.
+
+Symptoms: High fever, chills, headache, muscle ache.
+
+Prevention: Use mosquito nets, insect repellents, avoid stagnant water, wear long sleeves, indoor residual spraying.
+
+Medication: Chloroquine, artemisinin, lumefantrine.
+
+Vaccine? No widely used vaccine yet.
+
+5. Dengue
+Virus spread by Aedes mosquitoes; prevalent in rainy season.
+
+Symptoms: High fever, joint pain, rash, headache.
+
+Prevention: Remove standing water, use mosquito repellent, wear protective clothing, keep surroundings clean, screen windows and doors.
+
+Medication: Supportive care (fluids, pain relief).
+
+Vaccine? No widely used vaccine.
+
+6. Respiratory Infections
+Infections like pneumonia, bronchitis, and COPD affecting the lungs.
+
+Symptoms: Cough, shortness of breath, chest pain, fever.
+
+Prevention: Hand hygiene, covering mouth/nose, quit smoking, avoid polluted areas, vaccination.
+
+Medication: Antibiotics, bronchodilators, steroids.
+
+Vaccine? Flu, pneumonia, and DPT vaccines available.
+
+7. Gastrointestinal Infections
+Diseases like cholera and gastroenteritis from poor water/food hygiene.
+
+Symptoms: Diarrhea, vomiting, stomach cramps, fever.
+
+Prevention: Drink clean water, eat well-cooked foods, wash hands, proper sanitation, avoid street food.
+
+Medication: Oral rehydration therapy, antibiotics (as needed).
+
+Vaccine? Cholera vaccine available.
+
+8. Cancer
+Abnormal cell growth; common types include breast, lung, oral, cervical.
+
+Symptoms: Unexplained weight loss, persistent fever, lumps, fatigue.
+
+Prevention: Early screening, avoid tobacco, healthy eating, HPV vaccination, regular checkups.
+
+Medication: Chemotherapy, radiation, surgery.
+
+Vaccine? HPV vaccine for cervical cancer.
+
+9. HIV/AIDS
+Virus attacks immune system, gradually leading to immune failure.
+
+Symptoms: Fever, weight loss, frequent infections, night sweats.
+
+Prevention: Safe sex practices, screening, avoid sharing needles, treat STDs, antiretroviral therapy.
+
+Medication: Antiretroviral drugs (ART).
+
+Vaccine? No vaccine yet.
+
+10. Hepatitis B & C
+Viral infection causing liver inflammation, transmitted via blood and body fluids.
+
+Symptoms: Jaundice, abdominal pain, fatigue, dark urine.
+
+Prevention: Use sterile needles, safe sex, vaccination (for B), screen blood, avoid alcohol.
+
+Medication: Antivirals (tenofovir for B, sofosbuvir for C).
+
+Vaccine? Hepatitis B vaccine available.
+
+11. Typhoid
+Water- and food-borne bacterial illness causing fever and digestive issues.
+
+Symptoms: Prolonged fever, headache, abdominal pain, rash.
+
+Prevention: Safe water, hand hygiene, avoid raw food, proper sanitation, typhoid vaccination.
+
+Medication: Antibiotics (ciprofloxacin, azithromycin).
+
+Vaccine? Yes, available.
+
+12. Chikungunya
+Mosquito-borne viral disease causing fever and severe joint pain.
+
+Symptoms: High fever, joint swelling, rash, headache.
+
+Prevention: Same as dengue/malaria (mosquito control).
+
+Medication: Supportive (pain relievers, fluids).
+
+Vaccine? No vaccine.
+
+13. Japanese Encephalitis
+Mosquito-borne viral infection affecting the brain, mostly in rural India.
+
+Symptoms: Fever, headache, confusion, seizures.
+
+Prevention: Vaccination, mosquito nets, repellents, avoid nocturnal outdoor activities, community spraying.
+
+Medication: Supportive (hospital care).
+
+Vaccine? Yes, JE vaccine.
+
+14. COVID-19
+Viral respiratory illness by coronavirus; global pandemic since 2020.
+
+Symptoms: Fever, cough, loss of smell/taste, fatigue.
+
+Prevention: Masks, vaccination, distancing, hand hygiene, avoid crowds.
+
+Medication: Supportive, antiviral drugs (remdesivir).
+
+Vaccine? Yes, several available.
+
+15. Stroke
+Blockage or bleeding in the brain affecting physical and mental functions.
+
+Symptoms: Sudden numbness, confusion, vision problems, loss of balance.
+
+Prevention: Control blood pressure, exercise, healthy diet, quit smoking, regular checkups.
+
+Medication: Thrombolytics, antihypertensives.
+
+Vaccine? No vaccine.
+
+16. Chronic Kidney Disease
+Progressive loss of kidney function, leading to waste accumulation in the body.
+
+Symptoms: Swelling, fatigue, frequent urination, nausea.
+
+Prevention: Control diabetes/hypertension, regular screening, drink plenty water, avoid painkillers, healthy eating.
+
+Medication: ACE inhibitors, diuretics, dialysis.
+
+Vaccine? No vaccine.
+
+17. Asthma
+Chronic respiratory condition with airway constriction and inflammation.
+
+Symptoms: Wheezing, coughing, shortness of breath, chest tightness.
+
+Prevention: Avoid triggers (dust, smoke), regular checkups, allergen-proof home, use inhalers, healthy lifestyle.
+
+Medication: Inhaled steroids, bronchodilators.
+
+Vaccine? No vaccine.
+
+18. COPD
+Progressive lung disease, mainly caused by smoking/pollution (Chronic Obstructive Pulmonary Disease).
+
+Symptoms: Chronic cough, breathlessness, frequent chest infections, fatigue.
+
+Prevention: Quit smoking, avoid pollutants, regular exercise, early treatment, healthy diet.
+
+Medication: Inhalers, corticosteroids, oxygen therapy.
+
+Vaccine? Flu and pneumonia vaccines may help prevent complications.
+
+19. Diarrheal Diseases
+Mainly affect children, caused by contaminated water/food.
+
+Symptoms: Frequent watery stools, cramps, dehydration, vomiting.
+
+Prevention: Clean water, good sanitation, exclusive breastfeeding, hand hygiene, rotavirus vaccination.
+
+Medication: ORS, zinc tablets, antibiotics (if indicated).
+
+Vaccine? Rotavirus vaccine.
+
+20. Measles
+Highly contagious viral illness mostly in children.
+
+Symptoms: Fever, rash, cough, Koplik’s spots.
+
+Prevention: Vaccination (MMR), hand hygiene, avoid infected persons, good nutrition, respiratory hygiene.
+
+Medication: Supportive care, vitamin A supplements.
+
+Vaccine? Yes, MMR vaccine.
+
+21. Typhoid Fever
+Bacterial infection through contaminated food/water.
+
+Symptoms: High fever, abdominal pain, rash, headache.
+
+Prevention: Vaccination, hygiene, avoid raw/unwashed foods, safe water, early treatment.
+
+Medication: Antibiotics (azithromycin, ceftriaxone).
+
+Vaccine? Yes.
+
+22. Hypertension
+Chronic elevated blood pressure leading to organ damage.
+
+Symptoms: Often asymptomatic; headaches, dizziness, nosebleeds, blurred vision.
+
+Prevention: Low salt diet, exercise, weight control, regular monitoring, limit alcohol.
+
+Medication: ACE inhibitors, beta-blockers, diuretics.
+
+Vaccine? No vaccine.
+
+23. Oral Diseases (Dental Caries)
+Cavity-forming bacteria affecting teeth, widespread among children/adults.
+
+Symptoms: Toothache, visible holes, sensitivity, gum swelling.
+
+Prevention: Brushing twice a day, flossing, avoid sugary foods, regular dental checkups, fluoridated water.
+
+Medication: Fillings, root canals, pain relievers.
+
+Vaccine? No vaccine.
+
+24. Chickenpox
+Viral infection causing itchy blisters and fever.
+
+Symptoms: Fever, red spots, itching, fatigue.
+
+Prevention: Vaccination, avoid contact, hygiene, stay home when infected, cleanliness.
+
+Medication: Antivirals (acyclovir), supportive care.
+
+Vaccine? Yes, varicella vaccine.
+
+25. Mumps
+Viral disease causing painful swelling of salivary glands; mostly affects kids.
+
+Symptoms: Swelling of cheeks/jaw, fever, headache, muscle aches.
+
+Prevention: Vaccination (MMR), hygiene, avoid infected persons, mask use, early isolation.
+
+Medication: Supportive.
+
+Vaccine? MMR vaccine.
+
+26. Rubella
+Mild viral illness causing rash and fever; risk for pregnant women.
+
+Symptoms: Mild fever, rash, lymph node swelling, joint pain.
+
+Prevention: Vaccination (MMR), avoid contact during pregnancy, hand hygiene, screening, mask use.
+
+Medication: Supportive.
+
+Vaccine? MMR vaccine.
+
+27. Polio
+Viral disease affecting nervous system, can cause paralysis.
+
+Symptoms: Fever, fatigue, headache, limb weakness/paralysis.
+
+Prevention: Polio vaccination, hand hygiene, clean water, avoid crowds, early detection.
+
+Medication: Supportive, physiotherapy.
+
+Vaccine? Yes, oral polio vaccine.
+
+28. Influenza
+Seasonal viral illness affecting the respiratory system.
+
+Symptoms: Fever, sore throat, cough, body aches.
+
+Prevention: Annual vaccination, hand hygiene, avoid sick contacts, wear masks, clean surfaces.
+
+Medication: Antivirals (oseltamivir), supportive care.
+
+Vaccine? Yes.
+
+29. Pneumonia
+Infection of the lungs by bacteria/virus/fungi.
+
+Symptoms: Chest pain, fever, cough, breathlessness.
+
+Prevention: Vaccinations (pneumococcal, flu), hand hygiene, treat underlying illnesses, avoid smoke, timely medical care.
+
+Medication: Antibiotics, antivirals, supportive therapy.
+
+Vaccine? Pneumococcal vaccine.
+
+30. Alzheimer’s Disease
+Progressive brain disorder affecting memory, cognition.
+
+Symptoms: Memory loss, confusion, difficulty in problem-solving, personality changes.
+
+Prevention: Mental exercise, physical activity, healthy diet, manage heart health, social interaction.
+
+Medication: Donepezil, memantine.
+
+Vaccine? No vaccine.
+
+31. Rabies
+Rabies is a deadly viral disease transmitted by animal bites, notably dogs.
+
+Symptoms: Fever, agitation, hydrophobia, confusion.
+
+Prevention: Avoid stray animals, vaccinate pets, pre-exposure vaccine, immediate wound cleaning, post-exposure prophylaxis.
+
+Medication: Rabies immunoglobulin, vaccine.
+
+Vaccine? Yes.
+
+32. Kala-azar (Leishmaniasis)
+Parasitic infection spread by sandflies, causes fever and organ enlargement.
+
+Symptoms: Persistent fever, weight loss, anaemia, enlarged spleen.
+
+Prevention: Avoid sandfly areas, insect repellent use, protective clothing, improved housing, insecticide spraying.
+
+Medication: Amphotericin B, miltefosine.
+
+Vaccine? No vaccine.
+
+33. Filariasis
+Mosquito-borne parasitic disease resulting in limb swelling.
+
+Symptoms: Swollen limbs, fever, skin thickening, pain.
+
+Prevention: Mosquito control, insect repellents, bed nets, mass drug administration, hygiene.
+
+Medication: Diethylcarbamazine, ivermectin.
+
+Vaccine? No vaccine.
+
+34. Plague
+Bacterial infection by Yersinia pestis, mainly from rodents.
+
+Symptoms: Fever, chills, swollen lymph nodes, weakness.
+
+Prevention: Avoid contact with rodents, proper sanitation, flea control, early treatment, isolation.
+
+Medication: Streptomycin, doxycycline.
+
+Vaccine? Rarely used, not routine.
+
+35. Diphtheria
+Bacterial respiratory disease affecting children/adolescents.
+
+Symptoms: Sore throat, fever, difficulty breathing, swollen neck.
+
+Prevention: Vaccination, avoid infected people, hand hygiene, mask use, prompt medical care.
+
+Medication: Antitoxins, antibiotics (penicillin).
+
+Vaccine? DPT vaccine.
+
+36. Meningitis
+Inflammation of protective membranes of brain & spinal cord, viral or bacterial.
+
+Symptoms: Fever, headache, neck stiffness, confusion.
+
+Prevention: Vaccination, avoid sick contacts, respiratory hygiene, prompt treatment, hand hygiene.
+
+Medication: Antibiotics (ceftriaxone), antivirals.
+
+Vaccine? Meningococcal vaccine.
+
+37. Hepatitis A and E
+Viral infections, mainly food and water-borne, affecting the liver.
+
+Symptoms: Jaundice, loss of appetite, fatigue, nausea.
+
+Prevention: Safe water, hygienic food, handwashing, sanitation, vaccination.
+
+Medication: Supportive care.
+
+Vaccine? Hepatitis A vaccine.
+
+38. Hand, Foot and Mouth Disease
+Viral (often Coxsackie A), mostly in young children.
+
+Symptoms: Fever, mouth sores, rash on hands/feet, sore throat.
+
+Prevention: Hand hygiene, avoid sharing utensils, isolate sick children, regular disinfection, keep toys clean.
+
+Medication: Supportive care (hydration, pain relief).
+
+Vaccine? No vaccine.
+
+39. Urinary Tract Infections (UTI)
+Bacterial infections of urinary tract, especially women.
+
+Symptoms: Burning urination, frequent urge, cloudy urine, pelvic pain.
+
+Prevention: Hydration, hygiene, urinate after intercourse, avoid holding urine, timely treatment.
+
+Medication: Antibiotics (ciprofloxacin, nitrofurantoin).
+
+Vaccine? No vaccine.
+
+40. Otitis Media
+Middle ear infection, common in children.
+
+Symptoms: Ear pain, fever, irritability, hearing loss.
+
+Prevention: Breastfeeding, avoid smoking/alcohol exposure, treat colds promptly, good hygiene, avoid prolonged water exposure.
+
+Medication: Pain relief, antibiotics.
+
+Vaccine? Pneumococcal vaccine may help.
+
+41. Leprosy (Hansen’s Disease)
+Chronic infection by Mycobacterium leprae, affecting skin/nerves.
+
+Symptoms: Skin lesions, numbness, muscle weakness, eye problems.
+
+Prevention: Early diagnosis/treatment, contact tracing, health education, improved sanitation, avoid contact with untreated cases.
+
+Medication: Dapsone, rifampicin, clofazimine.
+
+Vaccine? No vaccine.
+
+42. Schistosomiasis
+Parasitic worm infection via contaminated water.
+
+Symptoms: Rash, fever, abdominal pain, blood in urine.
+
+Prevention: Avoid contact with contaminated water, improved sanitation, mass treatment, snail control, health education.
+
+Medication: Praziquantel.
+
+Vaccine? No vaccine.
+
+43. Rotavirus Diarrhea
+Viral childhood diarrhea, severe dehydration risk.
+
+Symptoms: Watery diarrhea, vomiting, fever, abdominal cramps.
+
+Prevention: Rotavirus vaccine, handwashing, safe water, exclusive breastfeeding, sanitation.
+
+Medication: ORS, supportive care.
+
+Vaccine? Yes.
+
+44. Tetanus
+Bacterial infection from wounds by Clostridium tetani.
+
+Symptoms: Jaw stiffness, muscle spasms, fever, difficulty swallowing.
+
+Prevention: Proper wound care, vaccination, use gloves, clean instruments, immediate treatment.
+
+Medication: Antitoxin, metronidazole.
+
+Vaccine? Yes, DPT vaccine.
+
+45. Hantavirus Fever
+Rodent-borne viral disease, rare but severe.
+
+Symptoms: Fever, muscle aches, cough, shortness of breath.
+
+Prevention: Avoid contact with rodents, hygiene, proper food storage, home cleanliness, early treatment.
+
+Medication: Supportive.
+
+Vaccine? No vaccine.
+
+46. Epstein-Barr Virus (EBV) Infection
+Linked with mononucleosis and some cancers.
+
+Symptoms: Fever, sore throat, swollen glands, fatigue.
+
+Prevention: Avoid sharing drinks, respiratory hygiene, avoid intimate contact with sick, handwashing, isolation when sick.
+
+Medication: Supportive, pain relief.
+
+Vaccine? No vaccine.
+
+47. Syphilis
+STD caused by Treponema pallidum bacteria.
+
+Symptoms: Genital sores, rash, fever, swollen lymph nodes.
+
+Prevention: Safe sex, screening, educate about symptoms, avoid multiple partners, treat early.
+
+Medication: Penicillin.
+
+Vaccine? No vaccine.
+
+48. Gonorrhea
+STD causing genital/urinary tract infection.
+
+Symptoms: Painful urination, discharge, joint pain, pelvic pain.
+
+Prevention: Safe sex, screening, prompt treatment, handwash after contact, educate youth.
+
+Medication: Ceftriaxone, azithromycin.
+
+Vaccine? No vaccine.
+
+49. Chlamydia
+Common bacterial STD among youth.
+
+Symptoms: Often asymptomatic, discharge, burning urination, pelvic pain.
+
+Prevention: Safe sex, regular screening, education, treat partners, avoid multiple partners.
+
+Medication: Azithromycin, doxycycline.
+
+Vaccine? No vaccine.
+
+50. Amoebiasis
+Protozoal infection from contaminated food/water.
+
+Symptoms: Diarrhea, abdominal pain, fever, blood in stool.
+
+Prevention: Safe water, good hygiene, wash fruits/veggies, proper sanitation, avoid uncooked foods.
+
+Medication: Metronidazole, tinidazole.
+
+Vaccine? No vaccine.
+
+51. Giardiasis
+Intestinal protozoal infection, causes diarrhea and malnutrition.
+
+Symptoms: Diarrhea, flatulence, cramps, fatigue.
+
+Prevention: Boil water, wash hands, clean food, avoid untreated water, sanitation.
+
+Medication: Tinidazole, metronidazole.
+
+Vaccine? No vaccine.
+
+52. Mumps (additional info)
+Childhood viral infection, affecting parotid glands.
+
+Symptoms: Facial swelling, pain, fever, headache.
+
+Prevention: MMR vaccine, avoid contact, hygiene measures, home isolation, early treatment.
+
+Medication: Pain relief, fluids.
+
+Vaccine? Yes.
+
+53. Rubella (additional info)
+Contagious viral disease, birth defects risk in pregnancy.
+
+Symptoms: Rash, mild fever, lymphadenopathy, joint pain.
+
+Prevention: MMR vaccine, avoid contact, prenatal screening, hygiene, mask use.
+
+Medication: Supportive.
+
+Vaccine? Yes.
+
+54. Sickle Cell Disease
+Hereditary blood disorder common in tribal regions.
+
+Symptoms: Pain episodes, anemia, fatigue, swelling.
+
+Prevention: Genetic counseling, early diagnosis, hydration, vaccines for infections, regular checks.
+
+Medication: Hydroxyurea, pain management.
+
+Vaccine? No disease-specific vaccine.
+
+55. Thalassemia
+Inherited blood disorder causing anemia.
+
+Symptoms: Fatigue, pale skin, growth problems, jaundice.
+
+Prevention: Genetic counseling, prenatal testing, regular checkups, blood transfusions, iron chelation.
+
+Medication: Desferrioxamine, blood transfusions.
+
+Vaccine? No vaccine.
+
+56. Anemia (Iron deficiency/other)
+Low red blood cells from diet, disease, or genetics.
+
+Symptoms: Fatigue, pallor, shortness of breath, dizziness.
+
+Prevention: Iron-rich diet, regular screening, treat underlying causes, vitamin supplements, improve nutrition.
+
+Medication: Iron supplementation, treat underlying cause.
+
+Vaccine? No vaccine.
+
+57. Osteoporosis
+Bone weakening leading to fracture risk.
+
+Symptoms: Back pain, loss of height, brittle bones, fractures.
+
+Prevention: Calcium/Vitamin D intake, weight-bearing exercise, avoid smoking, moderate alcohol, bone density testing.
+
+Medication: Bisphosphonates, vitamin D, calcium supplements.
+
+Vaccine? No vaccine.
+
+58. Musculoskeletal Disorders (Arthritis)
+Joint pain and swelling (osteoarthritis, rheumatoid arthritis).
+
+Symptoms: Pain, swelling, stiffness, reduced mobility.
+
+Prevention: Maintain healthy weight, regular exercise, injury prevention, ergonomic work practices, early treatment.
+
+Medication: NSAIDs, corticosteroids, DMARDs.
+
+Vaccine? No vaccine.
+
+59. Depression
+Common mental health disorder, increasing in urban areas.
+
+Symptoms: Persistent sadness, sleep disturbance, fatigue, loss of interest.
+
+Prevention: Social support, regular exercise, manage stress, therapy, avoid substance abuse.
+
+Medication: Antidepressants (SSRIs), counseling.
+
+Vaccine? No vaccine.
+
+60. Anxiety Disorders
+Mental health disorders marked by excessive worry or fear.
+
+Symptoms: Restlessness, palpitations, sleep problems, muscle tension.
+
+Prevention: Stress management, regular exercise, healthy sleep, therapy, mindfulness.
+
+Medication: Anxiolytics (benzodiazepines, SSRIs), therapy.
+
+Vaccine? No vaccine.

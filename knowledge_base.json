@@ -1,0 +1,2110 @@
+
+{
+  "options": [
+    {
+      "id": 1,
+      "title": "Know about a Disease",
+      "description": "Get detailed information about diseases, their symptoms, prevention, medication, and vaccines.",
+      "data": [
+        {
+          "name": "Tuberculosis (TB)",
+          "description": "TB is an airborne bacterial infection primarily affecting the lungs. It spreads through droplets from coughs or sneezes.",
+          "symptoms": ["Persistent cough", "Fever", "Night sweats", "Weight loss"],
+          "prevention": ["Good ventilation", "Covering mouth while coughing", "Early testing", "Avoiding contact with TB patients", "BCG vaccination"],
+          "medication": ["Isoniazid", "Rifampicin", "Ethambutol", "Pyrazinamide"],
+          "vaccine": "BCG vaccine"
+        },
+        {
+          "name": "Diabetes",
+          "description": "Chronic condition marked by high blood sugar due to inadequate insulin or resistance.",
+          "symptoms": ["Excessive thirst", "Frequent urination", "Unexplained fatigue", "Slow wound healing"],
+          "prevention": ["Exercise", "Balanced diet", "Regular health checkups", "Maintain healthy weight", "Limit sugar intake"],
+          "medication": ["Metformin", "Insulin", "Sulfonylureas"],
+          "vaccine": "No vaccine"
+        },
+        {
+          "name": "Cardiovascular Diseases",
+          "description": "Group of disorders including heart attack and stroke due to blocked vessels or heart issues.",
+          "symptoms": ["Chest pain", "Shortness of breath", "Dizziness", "Irregular heartbeat"],
+          "prevention": ["Stay active", "Quit smoking", "Control blood pressure", "Eat heart-friendly foods", "Regular screenings"],
+          "medication": ["Statins", "Beta-blockers", "ACE inhibitors"],
+          "vaccine": "No vaccine"
+        },
+        {
+          "name": "Malaria",
+          "description": "Mosquito-borne infection causing fever and potentially fatal complications.",
+          "symptoms": ["High fever", "Chills", "Headache", "Muscle ache"],
+          "prevention": ["Use mosquito nets", "Insect repellents", "Avoid stagnant water", "Wear long sleeves", "Indoor residual spraying"],
+          "medication": ["Chloroquine", "Artemisinin", "Lumefantrine"],
+          "vaccine": "No widely used vaccine yet"
+        },
+        {
+          "name": "Dengue",
+          "description": "Virus spread by Aedes mosquitoes; prevalent in rainy season.",
+          "symptoms": ["High fever", "Joint pain", "Rash", "Headache"],
+          "prevention": ["Remove standing water", "Use mosquito repellent", "Wear protective clothing", "Keep surroundings clean", "Screen windows and doors"],
+          "medication": ["Supportive care (fluids, pain relief)"],
+          "vaccine": "No widely used vaccine"
+        },
+        {
+          "name": "Respiratory Infections",
+          "description": "Infections like pneumonia, bronchitis, and COPD affecting the lungs.",
+          "symptoms": ["Cough", "Shortness of breath", "Chest pain", "Fever"],
+          "prevention": ["Hand hygiene", "Covering mouth/nose", "Quit smoking", "Avoid polluted areas", "Vaccination"],
+          "medication": ["Antibiotics", "Bronchodilators", "Steroids"],
+          "vaccine": "Flu, pneumonia, and DPT vaccines available"
+        },
+        {
+          "name": "Gastrointestinal Infections",
+          "description": "Diseases like cholera and gastroenteritis from poor water/food hygiene.",
+          "symptoms": ["Diarrhea", "Vomiting", "Stomach cramps", "Fever"],
+          "prevention": ["Drink clean water", "Eat well-cooked foods", "Wash hands", "Proper sanitation", "Avoid street food"],
+          "medication": ["Oral rehydration therapy", "Antibiotics (as needed)"],
+          "vaccine": "Cholera vaccine available"
+        },
+        {
+          "name": "Cancer",
+          "description": "Abnormal cell growth; common types include breast, lung, oral, cervical.",
+          "symptoms": ["Unexplained weight loss", "Persistent fever", "Lumps", "Fatigue"],
+          "prevention": ["Early screening", "Avoid tobacco", "Healthy eating", "HPV vaccination", "Regular checkups"],
+          "medication": ["Chemotherapy", "Radiation", "Surgery"],
+          "vaccine": "HPV vaccine for cervical cancer"
+        },
+        {
+          "name": "HIV/AIDS",
+          "description": "Virus attacks immune system, gradually leading to immune failure.",
+          "symptoms": ["Fever", "Weight loss", "Frequent infections", "Night sweats"],
+          "prevention": ["Safe sex practices", "Screening", "Avoid sharing needles", "Treat STDs", "Antiretroviral therapy"],
+          "medication": ["Antiretroviral drugs (ART)"],
+          "vaccine": "No vaccine yet"
+        },
+        {
+          "name": "Hepatitis B & C",
+          "description": "Viral infection causing liver inflammation, transmitted via blood and body fluids.",
+          "symptoms": ["Jaundice", "Abdominal pain", "Fatigue", "Dark urine"],
+          "prevention": ["Use sterile needles", "Safe sex", "Vaccination (for B)", "Screen blood", "Avoid alcohol"],
+          "medication": ["Tenofovir for Hepatitis B", "Sofosbuvir for Hepatitis C"],
+          "vaccine": "Hepatitis B vaccine available"
+        },
+        {
+          "name": "Typhoid",
+          "description": "Water- and food-borne bacterial illness causing fever and digestive issues.",
+          "symptoms": ["Prolonged fever", "Headache", "Abdominal pain", "Rash"],
+          "prevention": ["Safe water", "Hand hygiene", "Avoid raw food", "Proper sanitation", "Typhoid vaccination"],
+          "medication": ["Ciprofloxacin", "Azithromycin"],
+          "vaccine": "Yes, available"
+        },
+        {
+          "name": "Chikungunya",
+          "description": "Mosquito-borne viral disease causing fever and severe joint pain.",
+          "symptoms": ["High fever", "Joint swelling", "Rash", "Headache"],
+          "prevention": ["Mosquito control measures", "Insect repellents", "Avoid stagnant water", "Use nets"],
+          "medication": ["Supportive (pain relievers, fluids)"],
+          "vaccine": "No vaccine"
+        },
+        {
+          "name": "Japanese Encephalitis",
+          "description": "Mosquito-borne viral infection affecting the brain, mostly in rural India.",
+          "symptoms": ["Fever", "Headache", "Confusion", "Seizures"],
+          "prevention": ["Vaccination", "Mosquito nets", "Repellents", "Avoid nocturnal outdoor activities", "Community spraying"],
+          "medication": ["Supportive (hospital care)"],
+          "vaccine": "Yes, JE vaccine"
+        },
+        {
+          "name": "COVID-19",
+          "description": "Viral respiratory illness by coronavirus; global pandemic since 2020.",
+          "symptoms": ["Fever", "Cough", "Loss of smell/taste", "Fatigue"],
+          "prevention": ["Masks", "Vaccination", "Distancing", "Hand hygiene", "Avoid crowds"],
+          "medication": ["Supportive", "Antiviral drugs (remdesivir)"],
+          "vaccine": "Yes, several available"
+        },
+        {
+          "name": "Stroke",
+          "description": "Blockage or bleeding in the brain affecting physical and mental functions.",
+          "symptoms": ["Sudden numbness", "Confusion", "Vision problems", "Loss of balance"],
+          "prevention": ["Control blood pressure", "Exercise", "Healthy diet", "Quit smoking", "Regular checkups"],
+          "medication": ["Thrombolytics", "Antihypertensives"],
+          "vaccine": "No vaccine"
+        },
+        {
+          "name": "Chronic Kidney Disease",
+          "description": "Progressive loss of kidney function, leading to waste accumulation in the body.",
+          "symptoms": ["Swelling", "Fatigue", "Frequent urination", "Nausea"],
+          "prevention": ["Control diabetes/hypertension", "Regular screening", "Drink plenty water", "Avoid painkillers", "Healthy eating"],
+          "medication": ["ACE inhibitors", "Diuretics", "Dialysis"],
+          "vaccine": "No vaccine"
+        },
+        {
+          "name": "Asthma",
+          "description": "Chronic respiratory condition with airway constriction and inflammation.",
+          "symptoms": ["Wheezing", "Coughing", "Shortness of breath", "Chest tightness"],
+          "prevention": ["Avoid triggers", "Regular checkups", "Allergen-proof home", "Use inhalers", "Healthy lifestyle"],
+          "medication": ["Inhaled steroids", "Bronchodilators"],
+          "vaccine": "No vaccine"
+        },
+        {
+          "name": "COPD",
+          "description": "Progressive lung disease, mainly caused by smoking/pollution (Chronic Obstructive Pulmonary Disease).",
+          "symptoms": ["Chronic cough", "Breathlessness", "Frequent chest infections", "Fatigue"],
+          "prevention": ["Quit smoking", "Avoid pollutants", "Regular exercise", "Early treatment", "Healthy diet"],
+          "medication": ["Inhalers", "Corticosteroids", "Oxygen therapy"],
+          "vaccine": "Flu and pneumonia vaccines may help prevent complications"
+        },
+        {
+          "name": "Diarrheal Diseases",
+          "description": "Mainly affect children, caused by contaminated water/food.",
+          "symptoms": ["Frequent watery stools", "Cramps", "Dehydration", "Vomiting"],
+          "prevention": ["Clean water", "Good sanitation", "Exclusive breastfeeding", "Hand hygiene", "Rotavirus vaccination"],
+          "medication": ["ORS", "Zinc tablets", "Antibiotics (if indicated)"],
+          "vaccine": "Rotavirus vaccine"
+        },
+        {
+          "name": "Measles",
+          "description": "Highly contagious viral illness mostly in children.",
+          "symptoms": ["Fever", "Rash", "Cough", "Koplik's spots"],
+          "prevention": ["Vaccination (MMR)", "Hand hygiene", "Avoid infected persons", "Good nutrition", "Respiratory hygiene"],
+          "medication": ["Supportive care", "Vitamin A supplements"],
+          "vaccine": "Yes, MMR vaccine"
+        },
+        {
+          "name": "Hypertension",
+          "description": "Chronic elevated blood pressure leading to organ damage.",
+          "symptoms": ["Often asymptomatic", "Headaches", "Dizziness", "Nosebleeds"],
+          "prevention": ["Low salt diet", "Exercise", "Weight control", "Regular monitoring", "Limit alcohol"],
+          "medication": ["ACE inhibitors", "Beta-blockers", "Diuretics"],
+          "vaccine": "No vaccine"
+        },
+        {
+          "name": "Oral Diseases (Dental Caries)",
+          "description": "Cavity-forming bacteria affecting teeth, widespread among children/adults.",
+          "symptoms": ["Toothache", "Visible holes", "Sensitivity", "Gum swelling"],
+          "prevention": ["Brushing twice a day", "Flossing", "Avoid sugary foods", "Regular dental checkups", "Fluoridated water"],
+          "medication": ["Fillings", "Root canals", "Pain relievers"],
+          "vaccine": "No vaccine"
+        },
+        {
+          "name": "Chickenpox",
+          "description": "Viral infection causing itchy blisters and fever.",
+          "symptoms": ["Fever", "Red spots", "Itching", "Fatigue"],
+          "prevention": ["Vaccination", "Avoid contact", "Hygiene", "Stay home when infected", "Cleanliness"],
+          "medication": ["Antivirals (acyclovir)", "Supportive care"],
+          "vaccine": "Yes, varicella vaccine"
+        },
+        {
+          "name": "Mumps",
+          "description": "Viral disease causing painful swelling of salivary glands; mostly affects kids.",
+          "symptoms": ["Swelling of cheeks/jaw", "Fever", "Headache", "Muscle aches"],
+          "prevention": ["Vaccination (MMR)", "Hygiene", "Avoid infected persons", "Mask use", "Early isolation"],
+          "medication": ["Supportive"],
+          "vaccine": "Yes, MMR vaccine"
+        },
+        {
+          "name": "Rubella",
+          "description": "Mild viral illness causing rash and fever; risk for pregnant women.",
+          "symptoms": ["Mild fever", "Rash", "Lymph node swelling", "Joint pain"],
+          "prevention": ["Vaccination (MMR)", "Avoid contact during pregnancy", "Hand hygiene", "Screening", "Mask use"],
+          "medication": ["Supportive"],
+          "vaccine": "Yes, MMR vaccine"
+        },
+        {
+          "name": "Polio",
+          "description": "Viral disease affecting nervous system, can cause paralysis.",
+          "symptoms": ["Fever", "Fatigue", "Headache", "Limb weakness/paralysis"],
+          "prevention": ["Polio vaccination", "Hand hygiene", "Clean water", "Avoid crowds", "Early detection"],
+          "medication": ["Supportive", "Physiotherapy"],
+          "vaccine": "Yes, oral polio vaccine"
+        },
+        {
+          "name": "Influenza",
+          "description": "Seasonal viral illness affecting the respiratory system.",
+          "symptoms": ["Fever", "Sore throat", "Cough", "Body aches"],
+          "prevention": ["Annual vaccination", "Hand hygiene", "Avoid sick contacts", "Wear masks", "Clean surfaces"],
+          "medication": ["Antivirals (oseltamivir)", "Supportive care"],
+          "vaccine": "Yes"
+        },
+        {
+          "name": "Pneumonia",
+          "description": "Infection of the lungs by bacteria/virus/fungi.",
+          "symptoms": ["Chest pain", "Fever", "Cough", "Breathlessness"],
+          "prevention": ["Vaccinations (pneumococcal, flu)", "Hand hygiene", "Treat underlying illnesses", "Avoid smoke", "Timely medical care"],
+          "medication": ["Antibiotics", "Antivirals", "Supportive therapy"],
+          "vaccine": "Pneumococcal vaccine"
+        },
+        {
+          "name": "Alzheimer's Disease",
+          "description": "Progressive brain disorder affecting memory, cognition.",
+          "symptoms": ["Memory loss", "Confusion", "Difficulty in problem-solving", "Personality changes"],
+          "prevention": ["Mental exercise", "Physical activity", "Healthy diet", "Manage heart health", "Social interaction"],
+          "medication": ["Donepezil", "Memantine"],
+          "vaccine": "No vaccine"
+        },
+        {
+          "name": "Rabies",
+          "description": "Deadly viral disease transmitted by animal bites, notably dogs.",
+          "symptoms": ["Fever", "Agitation", "Hydrophobia", "Confusion"],
+          "prevention": ["Avoid stray animals", "Vaccinate pets", "Pre-exposure vaccine", "Immediate wound cleaning", "Post-exposure prophylaxis"],
+          "medication": ["Rabies immunoglobulin", "Vaccine"],
+          "vaccine": "Yes"
+        },
+        {
+          "name": "Kala-azar (Leishmaniasis)",
+          "description": "Parasitic infection spread by sandflies, causes fever and organ enlargement.",
+          "symptoms": ["Persistent fever", "Weight loss", "Anaemia", "Enlarged spleen"],
+          "prevention": ["Avoid sandfly areas", "Insect repellent use", "Protective clothing", "Improved housing", "Insecticide spraying"],
+          "medication": ["Amphotericin B", "Miltefosine"],
+          "vaccine": "No vaccine"
+        },
+        {
+          "name": "Filariasis",
+          "description": "Mosquito-borne parasitic disease resulting in limb swelling.",
+          "symptoms": ["Swollen limbs", "Fever", "Skin thickening", "Pain"],
+          "prevention": ["Mosquito control", "Insect repellents", "Bed nets", "Mass drug administration", "Hygiene"],
+          "medication": ["Diethylcarbamazine", "Ivermectin"],
+          "vaccine": "No vaccine"
+        },
+        {
+          "name": "Plague",
+          "description": "Bacterial infection by Yersinia pestis, mainly from rodents.",
+          "symptoms": ["Fever", "Chills", "Swollen lymph nodes", "Weakness"],
+          "prevention": ["Avoid contact with rodents", "Proper sanitation", "Flea control", "Early treatment", "Isolation"],
+          "medication": ["Streptomycin", "Doxycycline"],
+          "vaccine": "Rarely used, not routine"
+        },
+        {
+          "name": "Diphtheria",
+          "description": "Bacterial respiratory disease affecting children/adolescents.",
+          "symptoms": ["Sore throat", "Fever", "Difficulty breathing", "Swollen neck"],
+          "prevention": ["Vaccination", "Avoid infected people", "Hand hygiene", "Mask use", "Prompt medical care"],
+          "medication": ["Antitoxins", "Antibiotics (penicillin)"],
+          "vaccine": "DPT vaccine"
+        },
+        {
+          "name": "Meningitis",
+          "description": "Inflammation of protective membranes of brain & spinal cord, viral or bacterial.",
+          "symptoms": ["Fever", "Headache", "Neck stiffness", "Confusion"],
+          "prevention": ["Vaccination", "Avoid sick contacts", "Respiratory hygiene", "Prompt treatment", "Hand hygiene"],
+          "medication": ["Antibiotics (ceftriaxone)", "Antivirals"],
+          "vaccine": "Meningococcal vaccine"
+        },
+        {
+          "name": "Hepatitis A and E",
+          "description": "Viral infections, mainly food and water-borne, affecting the liver.",
+          "symptoms": ["Jaundice", "Loss of appetite", "Fatigue", "Nausea"],
+          "prevention": ["Safe water", "Hygienic food", "Handwashing", "Sanitation", "Vaccination"],
+          "medication": ["Supportive care"],
+          "vaccine": "Hepatitis A vaccine"
+        },
+        {
+          "name": "Hand, Foot and Mouth Disease",
+          "description": "Viral (often Coxsackie A), mostly in young children.",
+          "symptoms": ["Fever", "Mouth sores", "Rash on hands/feet", "Sore throat"],
+          "prevention": ["Hand hygiene", "Avoid sharing utensils", "Isolate sick children", "Regular disinfection", "Keep toys clean"],
+          "medication": ["Supportive care (hydration, pain relief)"],
+          "vaccine": "No vaccine"
+        },
+        {
+          "name": "Urinary Tract Infections (UTI)",
+          "description": "Bacterial infections of urinary tract, especially women.",
+          "symptoms": ["Burning urination", "Frequent urge", "Cloudy urine", "Pelvic pain"],
+          "prevention": ["Hydration", "Hygiene", "Urinate after intercourse", "Avoid holding urine", "Timely treatment"],
+          "medication": ["Antibiotics (ciprofloxacin, nitrofurantoin)"],
+          "vaccine": "No vaccine"
+        },
+        {
+          "name": "Otitis Media",
+          "description": "Middle ear infection, common in children.",
+          "symptoms": ["Ear pain", "Fever", "Irritability", "Hearing loss"],
+          "prevention": ["Breastfeeding", "Avoid smoking/alcohol exposure", "Treat colds promptly", "Good hygiene", "Avoid prolonged water exposure"],
+          "medication": ["Pain relief", "Antibiotics"],
+          "vaccine": "Pneumococcal vaccine may help"
+        },
+        {
+          "name": "Leprosy (Hansen's Disease)",
+          "description": "Chronic infection by Mycobacterium leprae, affecting skin/nerves.",
+          "symptoms": ["Skin lesions", "Numbness", "Muscle weakness", "Eye problems"],
+          "prevention": ["Early diagnosis/treatment", "Contact tracing", "Health education", "Improved sanitation", "Avoid contact with untreated cases"],
+          "medication": ["Dapsone", "Rifampicin", "Clofazimine"],
+          "vaccine": "No vaccine"
+        },
+        {
+          "name": "Schistosomiasis",
+          "description": "Parasitic worm infection via contaminated water.",
+          "symptoms": ["Rash", "Fever", "Abdominal pain", "Blood in urine"],
+          "prevention": ["Avoid contact with contaminated water", "Improved sanitation", "Mass treatment", "Snail control", "Health education"],
+          "medication": ["Praziquantel"],
+          "vaccine": "No vaccine"
+        },
+        {
+          "name": "Rotavirus Diarrhea",
+          "description": "Viral childhood diarrhea, severe dehydration risk.",
+          "symptoms": ["Watery diarrhea", "Vomiting", "Fever", "Abdominal cramps"],
+          "prevention": ["Rotavirus vaccine", "Handwashing", "Safe water", "Exclusive breastfeeding", "Sanitation"],
+          "medication": ["ORS", "Supportive care"],
+          "vaccine": "Yes"
+        },
+        {
+          "name": "Tetanus",
+          "description": "Bacterial infection from wounds by Clostridium tetani.",
+          "symptoms": ["Jaw stiffness", "Muscle spasms", "Fever", "Difficulty swallowing"],
+          "prevention": ["Proper wound care", "Vaccination", "Use gloves", "Clean instruments", "Immediate treatment"],
+          "medication": ["Antitoxin", "Metronidazole"],
+          "vaccine": "Yes, DPT vaccine"
+        },
+        {
+          "name": "Hantavirus Fever",
+          "description": "Rodent-borne viral disease, rare but severe.",
+          "symptoms": ["Fever", "Muscle aches", "Cough", "Shortness of breath"],
+          "prevention": ["Avoid contact with rodents", "Hygiene", "Proper food storage", "Home cleanliness", "Early treatment"],
+          "medication": ["Supportive"],
+          "vaccine": "No vaccine"
+        },
+        {
+          "name": "Epstein-Barr Virus (EBV) Infection",
+          "description": "Linked with mononucleosis and some cancers.",
+          "symptoms": ["Fever", "Sore throat", "Swollen glands", "Fatigue"],
+          "prevention": ["Avoid sharing drinks", "Respiratory hygiene", "Avoid intimate contact with sick", "Handwashing", "Isolation when sick"],
+          "medication": ["Supportive", "Pain relief"],
+          "vaccine": "No vaccine"
+        },
+        {
+          "name": "Syphilis",
+          "description": "STD caused by Treponema pallidum bacteria.",
+          "symptoms": ["Genital sores", "Rash", "Fever", "Swollen lymph nodes"],
+          "prevention": ["Safe sex", "Screening", "Educate about symptoms", "Avoid multiple partners", "Treat early"],
+          "medication": ["Penicillin"],
+          "vaccine": "No vaccine"
+        },
+        {
+          "name": "Gonorrhea",
+          "description": "STD causing genital/urinary tract infection.",
+          "symptoms": ["Painful urination", "Discharge", "Joint pain", "Pelvic pain"],
+          "prevention": ["Safe sex", "Screening", "Prompt treatment", "Handwash after contact", "Educate youth"],
+          "medication": ["Ceftriaxone", "Azithromycin"],
+          "vaccine": "No vaccine"
+        },
+        {
+          "name": "Chlamydia",
+          "description": "Common bacterial STD among youth.",
+          "symptoms": ["Often asymptomatic", "Discharge", "Burning urination", "Pelvic pain"],
+          "prevention": ["Safe sex", "Regular screening", "Education", "Treat partners", "Avoid multiple partners"],
+          "medication": ["Azithromycin", "Doxycycline"],
+          "vaccine": "No vaccine"
+        },
+        {
+          "name": "Amoebiasis",
+          "description": "Protozoal infection from contaminated food/water.",
+          "symptoms": ["Diarrhea", "Abdominal pain", "Fever", "Blood in stool"],
+          "prevention": ["Safe water", "Good hygiene", "Wash fruits/veggies", "Proper sanitation", "Avoid uncooked foods"],
+          "medication": ["Metronidazole", "Tinidazole"],
+          "vaccine": "No vaccine"
+        },
+        {
+          "name": "Giardiasis",
+          "description": "Intestinal protozoal infection, causes diarrhea and malnutrition.",
+          "symptoms": ["Diarrhea", "Flatulence", "Cramps", "Fatigue"],
+          "prevention": ["Boil water", "Wash hands", "Clean food", "Avoid untreated water", "Sanitation"],
+          "medication": ["Tinidazole", "Metronidazole"],
+          "vaccine": "No vaccine"
+        },
+        {
+          "name": "Sickle Cell Disease",
+          "description": "Hereditary blood disorder common in tribal regions.",
+          "symptoms": ["Pain episodes", "Anaemia", "Fatigue", "Swelling"],
+          "prevention": ["Genetic counseling", "Early diagnosis", "Hydration", "Vaccines for infections", "Regular checks"],
+          "medication": ["Hydroxyurea", "Pain management"],
+          "vaccine": "No disease-specific vaccine"
+        },
+        {
+          "name": "Thalassemia",
+          "description": "Inherited blood disorder causing anemia.",
+          "symptoms": ["Fatigue", "Pale skin", "Growth problems", "Jaundice"],
+          "prevention": ["Genetic counseling", "Prenatal testing", "Regular checkups", "Blood transfusions", "Iron chelation"],
+          "medication": ["Desferrioxamine", "Blood transfusions"],
+          "vaccine": "No vaccine"
+        },
+        {
+          "name": "Anemia (Iron deficiency/other)",
+          "description": "Low red blood cells from diet, disease, or genetics.",
+          "symptoms": ["Fatigue", "Pallor", "Shortness of breath", "Dizziness"],
+          "prevention": ["Iron-rich diet", "Regular screening", "Treat underlying causes", "Vitamin supplements", "Improve nutrition"],
+          "medication": ["Iron supplementation", "Treat underlying cause"],
+          "vaccine": "No vaccine"
+        },
+        {
+          "name": "Osteoporosis",
+          "description": "Bone weakening leading to fracture risk.",
+          "symptoms": ["Back pain", "Loss of height", "Brittle bones", "Fractures"],
+          "prevention": ["Calcium/Vitamin D intake", "Weight-bearing exercise", "Avoid smoking", "Moderate alcohol", "Bone density testing"],
+          "medication": ["Bisphosphonates", "Vitamin D", "Calcium supplements"],
+          "vaccine": "No vaccine"
+        },
+        {
+          "name": "Musculoskeletal Disorders (Arthritis)",
+          "description": "Joint pain and swelling (osteoarthritis, rheumatoid arthritis).",
+          "symptoms": ["Pain", "Swelling", "Stiffness", "Reduced mobility"],
+          "prevention": ["Maintain healthy weight", "Regular exercise", "Injury prevention", "Ergonomic work practices", "Early treatment"],
+          "medication": ["NSAIDs", "Corticosteroids", "DMARDs"],
+          "vaccine": "No vaccine"
+        },
+        {
+          "name": "Depression",
+          "description": "Common mental health disorder, increasing in urban areas.",
+          "symptoms": ["Persistent sadness", "Sleep disturbance", "Fatigue", "Loss of interest"],
+          "prevention": ["Social support", "Regular exercise", "Manage stress", "Therapy", "Avoid substance abuse"],
+          "medication": ["Antidepressants (SSRIs)", "Counseling"],
+          "vaccine": "No vaccine"
+        },
+        {
+          "name": "Anxiety Disorders",
+          "description": "Mental health disorders marked by excessive worry or fear.",
+          "symptoms": ["Restlessness", "Palpitations", "Sleep problems", "Muscle tension"],
+          "prevention": ["Stress management", "Regular exercise", "Healthy sleep", "Therapy", "Mindfulness"],
+          "medication": ["Anxiolytics (benzodiazepines, SSRIs)", "Therapy"],
+          "vaccine": "No vaccine"
+        },
+        {
+          "name": "Common Cold and Flu",
+          "description": "Viral respiratory infections that primarily impact the nose, throat, and airways.",
+          "symptoms": ["Sneezing", "Runny or stuffy nose", "Sore throat", "Fever"],
+          "prevention": ["Frequent hand washing", "Avoiding sudden temperature changes", "Boosting immunity with vitamin C"],
+          "medication": ["Paracetamol", "Antihistamines", "Decongestants"],
+          "vaccine": "Flu vaccine recommended for high-risk groups"
+        },
+        {
+          "name": "Cholera",
+          "description": "Acute diarrheal illness caused by Vibrio cholerae bacteria.",
+          "symptoms": ["Profuse watery diarrhea", "Vomiting", "Rapid dehydration", "Muscle cramps"],
+          "prevention": ["Drink clean/boiled water", "Proper sanitation", "Hand hygiene"],
+          "medication": ["Oral rehydration salts (ORS)", "IV fluids", "Antibiotics in severe cases"],
+          "vaccine": "Cholera vaccine recommended in endemic areas"
+        },
+        {
+          "name": "Skin Infections",
+          "description": "Infections and fungal problems common due to humidity, pollution, and sweat.",
+          "symptoms": ["Rashes", "Itching", "Redness or white patches", "Blisters or pus"],
+          "prevention": ["Keep skin clean/dry", "Wear breathable clothes", "Avoid sharing personal items"],
+          "medication": ["Antibiotics", "Antifungal creams or oral medication"],
+          "vaccine": "Vaccine not usually required for common skin infections"
+        },
+        {
+          "name": "Gastroenteritis",
+          "description": "Infection of the stomach/intestines, usually viral or bacterial.",
+          "symptoms": ["Vomiting", "Diarrhea", "Stomach cramps", "Fever"],
+          "prevention": ["Wash food, fruits, vegetables", "Drink clean water", "Good hand hygiene"],
+          "medication": ["Oral rehydration", "Antiemetics", "Antibiotics if bacterial"],
+          "vaccine": "Rotavirus vaccine for infants, polio vaccine for overall prevention"
+        },
+        {
+          "name": "Bronchitis",
+          "description": "Inflammation of bronchial tubes mainly caused by infections or irritants.",
+          "symptoms": ["Cough", "Wheezing", "Sore throat", "Chest tightness"],
+          "prevention": ["No smoking", "Avoid pollutants", "Good hand hygiene"],
+          "medication": ["Cough suppressants", "Bronchodilators", "Antibiotics if bacterial"],
+          "vaccine": "Influenza vaccine for prevention"
+        },
+        {
+          "name": "Rheumatic Heart Disease",
+          "description": "Damage to heart valves from rheumatic fever (post-streptococcal infection).",
+          "symptoms": ["Chest pain", "Fatigue", "Swollen joints", "Shortness of breath"],
+          "prevention": ["Prompt antibiotic treatment for strep throat", "Regular follow-ups for heart health"],
+          "medication": ["Long-term antibiotics", "Valve surgery in severe cases"],
+          "vaccine": "No vaccine; focus on strep throat prevention"
+        },
+        {
+          "name": "Coronary Artery Disease",
+          "description": "Narrowing of heart arteries due to plaque, leading to heart attacks.",
+          "symptoms": ["Chest pain (angina)", "Shortness of breath", "Sweating", "Nausea"],
+          "prevention": ["Low-fat diet", "Regular exercise", "Control blood pressure"],
+          "medication": ["Statins", "Aspirin", "Beta-blockers"],
+          "vaccine": "No CAD vaccine"
+        },
+        {
+          "name": "Acute Encephalitis Syndrome (AES)",
+          "description": "Multiple viral and bacterial infections causing sudden brain inflammation.",
+          "symptoms": ["Fever", "Irritability", "Headache", "Drowsiness"],
+          "prevention": ["JE vaccination", "Mosquito control"],
+          "medication": ["Supportive; antivirals/antibiotics for specific causes"],
+          "vaccine": "JE and other vaccines per guidelines"
+        },
+        {
+          "name": "Rhinitis",
+          "description": "Inflammation of nasal mucous membrane, caused by allergies/infections.",
+          "symptoms": ["Sneezing", "Nasal congestion", "Runny nose", "Itchy eyes"],
+          "prevention": ["Avoid allergens", "Good home ventilation"],
+          "medication": ["Antihistamines", "Nasal sprays"],
+          "vaccine": "No vaccine for allergic rhinitis"
+        },
+        {
+          "name": "Scabies",
+          "description": "Contagious skin infestation by mites, causing severe itching.",
+          "symptoms": ["Intense itching", "Rash", "Red bumps", "Sores"],
+          "prevention": ["Avoid close contact", "Treat all family members simultaneously"],
+          "medication": ["Topical creams (permethrin)"],
+          "vaccine": "No vaccine available"
+        },
+        {
+          "name": "Dysentery",
+          "description": "Intestinal infection (bacterial/amoebic) causing bloody diarrhea.",
+          "symptoms": ["Bloody diarrhea", "Abdominal pain", "Fever", "Nausea"],
+          "prevention": ["Safe water/food", "Good hand hygiene"],
+          "medication": ["Antibiotics/antiparasitics", "Rehydration"],
+          "vaccine": "No vaccine for dysentery"
+        },
+        {
+          "name": "Conjunctivitis",
+          "description": "Infection/allergy of the eye lining, highly contagious.",
+          "symptoms": ["Red eyes", "Watery discharge", "Itching", "Swelling"],
+          "prevention": ["Good hand hygiene", "Avoid sharing towels"],
+          "medication": ["Antibiotic eyedrops for bacterial", "Antihistamines for allergic"],
+          "vaccine": "No vaccine"
+        },
+        {
+          "name": "Tonsillitis",
+          "description": "Infection/inflammation of tonsils, mostly viral or bacterial.",
+          "symptoms": ["Sore throat", "Difficulty swallowing", "Fever", "Swollen tonsils"],
+          "prevention": ["Avoid close contact", "Maintain oral hygiene"],
+          "medication": ["Pain relievers", "Antibiotics if bacterial"],
+          "vaccine": "No vaccine"
+        },
+        {
+          "name": "Sinusitis",
+          "description": "Inflammation/infection of sinuses, often after a cold or allergies.",
+          "symptoms": ["Facial pain", "Congestion", "Headache", "Thick nasal discharge"],
+          "prevention": ["Manage allergies/colds", "Avoid pollutants"],
+          "medication": ["Nasal saline", "Antibiotics for bacterial"],
+          "vaccine": "No vaccine"
+        },
+        {
+          "name": "Goiter (from Iodine Deficiency)",
+          "description": "Thyroid gland swelling due to iodine deficiency.",
+          "symptoms": ["Neck swelling", "Difficulty swallowing", "Cough", "Hoarseness"],
+          "prevention": ["Iodized salt intake", "Balanced diet"],
+          "medication": ["Thyroid hormone supplements"],
+          "vaccine": "No vaccine"
+        },
+        {
+          "name": "Rickets",
+          "description": "Defective bone development from vitamin D/calcium deficiency.",
+          "symptoms": ["Bowed legs", "Bone pain", "Delayed growth", "Dental problems"],
+          "prevention": ["Exposure to sunlight", "Vitamin D/Calcium rich diet"],
+          "medication": ["Supplements for vitamin D/calcium"],
+          "vaccine": "No vaccine"
+        },
+        {
+          "name": "Scurvy",
+          "description": "Nutritional deficiency of vitamin C.",
+          "symptoms": ["Bleeding gums", "Fatigue", "Joint pain", "Poor wound healing"],
+          "prevention": ["Citrus fruits/vegetables in diet"],
+          "medication": ["Vitamin C supplements"],
+          "vaccine": "No vaccine"
+        },
+        {
+          "name": "Beriberi",
+          "description": "Deficiency of vitamin B1 (thiamine), causing nerve and heart issues.",
+          "symptoms": ["Swelling", "Muscle weakness", "Heart problems", "Numbness"],
+          "prevention": ["Eat whole grains, pulses"],
+          "medication": ["Thiamine supplements"],
+          "vaccine": "No vaccine"
+        },
+        {
+          "name": "Pellagra",
+          "description": "Results from vitamin B3 (niacin) deficiency.",
+          "symptoms": ["Diarrhea", "Dermatitis", "Dementia", "Fatigue"],
+          "prevention": ["Protein/niacin-rich food"],
+          "medication": ["Niacin supplementation"],
+          "vaccine": "No vaccine"
+        },
+        {
+          "name": "Iron Deficiency Anemia",
+          "description": "Low hemoglobin due to poor dietary iron, menstrual loss, or malabsorption.",
+          "symptoms": ["Fatigue", "Pale skin", "Shortness of breath", "Headache"],
+          "prevention": ["Iron-rich food intake"],
+          "medication": ["Iron supplements"],
+          "vaccine": "No vaccine"
+        },
+        {
+          "name": "Protein Energy Malnutrition",
+          "description": "Malnutrition from insufficient protein/calorie intake.",
+          "symptoms": ["Stunted growth", "Muscle wasting", "Poor immunity", "Swelling (kwashiorkor)"],
+          "prevention": ["Balanced diet", "Proper child feeding"],
+          "medication": ["Nutritional rehabilitation"],
+          "vaccine": "No vaccine"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Know Disease from Symptoms",
+      "description": "Enter symptoms to identify possible diseases.",
+      "data": [
+        {
+          "symptoms": [
+            "Fever",
+            "Cough",
+            "Shortness of breath"
+          ],
+          "disease": "COVID-19",
+          "description": "COVID-19 is a viral respiratory infection caused by the SARS-CoV-2 virus.",
+          "prevention": [
+            "Wearing masks",
+            "Frequent handwashing",
+            "Maintaining social distancing"
+          ],
+          "medication": [
+            "Antiviral drugs (if prescribed)",
+            "Fever reducers",
+            "Oxygen therapy for severe cases"
+          ],
+          "vaccine": "Yes, multiple vaccines available (Covaxin, Covishield, Pfizer, Moderna, etc.)",
+          "consult_doctor": "Consult a doctor immediately if you experience breathing difficulty, persistent chest pain, or high fever."
+        },
+        {
+          "symptoms": [
+            "Jaundice",
+            "Abdominal pain",
+            "Dark urine"
+          ],
+          "disease": "Hepatitis B",
+          "description": "Hepatitis B is a viral infection that attacks the liver and can cause chronic liver disease.",
+          "prevention": [
+            "Avoid sharing needles",
+            "Practice safe sex",
+            "Use screened blood transfusions"
+          ],
+          "medication": [
+            "Antiviral medicines",
+            "Supportive care",
+            "Liver-protective drugs"
+          ],
+          "vaccine": "Yes, Hepatitis B vaccine is available and effective.",
+          "consult_doctor": "Doctor consultation is essential as untreated hepatitis B can lead to liver cirrhosis or cancer."
+        },
+        {
+          "symptoms": [
+            "Diarrhea",
+            "Vomiting",
+            "Stomach cramps"
+          ],
+          "disease": "Cholera",
+          "description": "Cholera is a bacterial infection of the intestines caused by Vibrio cholerae, leading to severe watery diarrhea.",
+          "prevention": [
+            "Drink clean water",
+            "Maintain good sanitation",
+            "Properly wash fruits and vegetables"
+          ],
+          "medication": [
+            "Oral rehydration salts (ORS)",
+            "IV fluids",
+            "Antibiotics in severe cases"
+          ],
+          "vaccine": "Yes, oral cholera vaccines are available.",
+          "consult_doctor": "Consult a doctor if diarrhea is severe, persistent, or accompanied by dehydration."
+        },
+        {
+          "symptoms": [
+            "Chest pain",
+            "Shortness of breath",
+            "Sweating"
+          ],
+          "disease": "Coronary Artery Disease",
+          "description": "Coronary artery disease occurs when plaque builds up in the coronary arteries, reducing blood flow to the heart.",
+          "prevention": [
+            "Eat a balanced diet",
+            "Exercise regularly",
+            "Avoid smoking",
+            "Manage cholesterol and blood pressure"
+          ],
+          "medication": [
+            "Blood thinners",
+            "Cholesterol-lowering drugs",
+            "Beta-blockers"
+          ],
+          "vaccine": "No specific vaccine available.",
+          "consult_doctor": "Doctor consultation is critical if you experience chest pain or symptoms of a heart attack."
+        },
+        {
+          "symptoms": [
+            "Headache",
+            "Neck stiffness",
+            "Fever"
+          ],
+          "disease": "Meningitis",
+          "description": "Meningitis is an inflammation of the protective membranes covering the brain and spinal cord, usually due to infection.",
+          "prevention": [
+            "Vaccination",
+            "Maintain hygiene",
+            "Avoid close contact with infected persons"
+          ],
+          "medication": [
+            "Antibiotics for bacterial meningitis",
+            "Antiviral drugs for viral meningitis",
+            "Pain relievers"
+          ],
+          "vaccine": "Yes, vaccines against bacterial meningitis are available.",
+          "consult_doctor": "Immediate doctor consultation is required, as meningitis can be life-threatening."
+        },
+        {
+          "symptoms": [
+            "High fever",
+            "Severe headache",
+            "Joint pain"
+          ],
+          "disease": "Dengue Fever",
+          "description": "Dengue is a mosquito-borne viral infection causing flu-like illness and, in severe cases, hemorrhagic fever.",
+          "prevention": [
+            "Use mosquito nets",
+            "Avoid mosquito breeding sites",
+            "Wear protective clothing"
+          ],
+          "medication": [
+            "Paracetamol for fever",
+            "IV fluids for dehydration",
+            "No specific antiviral available"
+          ],
+          "vaccine": "Yes, Dengvaxia vaccine is available in some countries.",
+          "consult_doctor": "Consult a doctor if you develop severe abdominal pain, persistent vomiting, or bleeding symptoms."
+        },
+        {
+          "symptoms": [
+            "Chronic cough",
+            "Blood in sputum",
+            "Weight loss"
+          ],
+          "disease": "Tuberculosis (TB)",
+          "description": "Tuberculosis is a bacterial infection caused by Mycobacterium tuberculosis that mainly affects the lungs.",
+          "prevention": [
+            "BCG vaccination",
+            "Avoid close contact with TB patients",
+            "Proper ventilation"
+          ],
+          "medication": [
+            "Antituberculosis drugs (Isoniazid, Rifampicin, etc.)"
+          ],
+          "vaccine": "Yes, BCG vaccine is available.",
+          "consult_doctor": "Doctor consultation is necessary if you have persistent cough for more than 2 weeks with weight loss or fever."
+        },
+        {
+          "symptoms": [
+            "Severe headache",
+            "Sensitivity to light",
+            "Vomiting"
+          ],
+          "disease": "Migraine",
+          "description": "Migraine is a neurological condition characterized by intense headaches often accompanied by nausea and light sensitivity.",
+          "prevention": [
+            "Stress management",
+            "Avoiding migraine triggers",
+            "Adequate sleep"
+          ],
+          "medication": [
+            "Pain relievers",
+            "Triptans",
+            "Anti-nausea medication"
+          ],
+          "vaccine": "No vaccine available.",
+          "consult_doctor": "Consult a doctor if migraines are frequent, disabling, or associated with vision problems."
+        },
+        {
+          "symptoms": [
+            "Wheezing",
+            "Difficulty breathing",
+            "Chest tightness"
+          ],
+          "disease": "Asthma",
+          "description": "Asthma is a chronic respiratory disease causing inflammation and narrowing of the airways.",
+          "prevention": [
+            "Avoid allergens and pollutants",
+            "Use inhalers as prescribed",
+            "Maintain healthy lifestyle"
+          ],
+          "medication": [
+            "Bronchodilators",
+            "Inhaled corticosteroids"
+          ],
+          "vaccine": "No specific vaccine available.",
+          "consult_doctor": "Doctor consultation is needed if you experience frequent asthma attacks or severe breathing difficulty."
+        },
+        {
+          "symptoms": [
+            "Chills",
+            "Sweating",
+            "High fever recurring in cycles"
+          ],
+          "disease": "Malaria",
+          "description": "Malaria is a mosquito-borne infectious disease caused by Plasmodium parasites.",
+          "prevention": [
+            "Use insecticide-treated nets",
+            "Indoor residual spraying",
+            "Avoid mosquito bites"
+          ],
+          "medication": [
+            "Antimalarial drugs such as Chloroquine, Artemisinin-based combination therapy"
+          ],
+          "vaccine": "Yes, RTS,S malaria vaccine is available.",
+          "consult_doctor": "Immediate medical attention is required if malaria symptoms appear, especially in children and pregnant women."
+        },
+        {
+          "symptoms": [
+            "Fever",
+            "Cough",
+            "Sore throat",
+            "Body aches"
+          ],
+          "disease": "Influenza (Flu)",
+          "description": "Influenza is an acute viral respiratory infection that causes fever, muscle aches, and respiratory symptoms.",
+          "prevention": [
+            "Annual influenza vaccination",
+            "Hand hygiene",
+            "Avoid close contact with sick people"
+          ],
+          "medication": [
+            "Rest and fluids",
+            "Antiviral drugs if started early (oseltamivir, etc.)",
+            "Fever reducers like paracetamol"
+          ],
+          "vaccine": "Yes — annual flu vaccine recommended for most people.",
+          "consult_doctor": "Consult a doctor if you have difficulty breathing, chest pain, high fever that doesn't respond to medication, or if you are pregnant or have chronic illness."
+        },
+        {
+          "symptoms": [
+            "Fever",
+            "Productive cough",
+            "Chest pain",
+            "Shortness of breath"
+          ],
+          "disease": "Pneumonia",
+          "description": "Pneumonia is an infection of the lung tissue caused by bacteria, viruses, or fungi, leading to inflammation and impaired breathing.",
+          "prevention": [
+            "Pneumococcal and influenza vaccines where indicated",
+            "Good hygiene",
+            "Avoid smoking"
+          ],
+          "medication": [
+            "Antibiotics for bacterial pneumonia",
+            "Supportive care (oxygen, fluids)",
+            "Antivirals for some viral causes if indicated"
+          ],
+          "vaccine": "Yes — pneumococcal vaccines and annual flu vaccine reduce risk of some pneumonias.",
+          "consult_doctor": "See a doctor promptly for persistent high fever, rapid breathing, chest pain, or worsening shortness of breath."
+        },
+        {
+          "symptoms": [
+            "Cough (may be productive or dry)",
+            "Wheezing",
+            "Chest tightness"
+          ],
+          "disease": "Bronchitis",
+          "description": "Bronchitis is inflammation of the bronchial tubes, commonly viral and causing cough and mucus production.",
+          "prevention": [
+            "Avoid smoking and air pollutants",
+            "Hand hygiene",
+            "Vaccination against flu and pertussis when appropriate"
+          ],
+          "medication": [
+            "Rest, fluids, cough suppressants or expectorants",
+            "Bronchodilators for wheeze",
+            "Antibiotics only if bacterial infection suspected"
+          ],
+          "vaccine": "No specific vaccine for acute bronchitis; flu and pertussis vaccines reduce some causes.",
+          "consult_doctor": "Consult a doctor if cough lasts more than 3 weeks, you cough up blood, or experience high fever or difficulty breathing."
+        },
+        {
+          "symptoms": [
+            "Jaundice",
+            "Fatigue",
+            "Abdominal pain",
+            "Dark urine"
+          ],
+          "disease": "Hepatitis A",
+          "description": "Hepatitis A is an acute, usually self-limited liver infection caused by the hepatitis A virus, commonly spread via contaminated food or water.",
+          "prevention": [
+            "Good hand hygiene",
+            "Safe food and water practices",
+            "Vaccination for at-risk or traveling individuals"
+          ],
+          "medication": [
+            "Supportive care (rest, hydration, avoid alcohol)",
+            "No specific antiviral for hepatitis A"
+          ],
+          "vaccine": "Yes — effective hepatitis A vaccine is available and recommended for at-risk populations.",
+          "consult_doctor": "See a doctor if you develop jaundice, persistent vomiting, severe abdominal pain, or confusion."
+        },
+        {
+          "symptoms": [
+            "Fatigue",
+            "Jaundice",
+            "Abdominal discomfort",
+            "Dark urine"
+          ],
+          "disease": "Hepatitis C",
+          "description": "Hepatitis C is a viral infection that can cause chronic liver disease and is transmitted mainly via blood contact.",
+          "prevention": [
+            "Avoid sharing needles or personal items with blood exposure",
+            "Screen blood products",
+            "Safe medical practices"
+          ],
+          "medication": [
+            "Direct-acting antiviral (DAA) treatments that can cure most infections",
+            "Supportive liver care"
+          ],
+          "vaccine": "No vaccine currently available for hepatitis C.",
+          "consult_doctor": "Consult a doctor for testing if you have risk factors (blood exposures, transfusions before screening eras) or symptoms of liver disease."
+        },
+        {
+          "symptoms": [
+            "Diarrhea",
+            "Nausea",
+            "Vomiting",
+            "Stomach cramps"
+          ],
+          "disease": "Gastroenteritis (Stomach flu / Food poisoning)",
+          "description": "Gastroenteritis is inflammation of the stomach and intestines usually due to viruses, bacteria, or toxins, causing diarrhea and vomiting.",
+          "prevention": [
+            "Safe food handling",
+            "Hand washing",
+            "Drink safe water"
+          ],
+          "medication": [
+            "Oral rehydration (ORS)",
+            "Antiemetics for severe nausea",
+            "Antibiotics only if bacterial cause confirmed and indicated"
+          ],
+          "vaccine": "Rotavirus vaccine available for infants; some travel-related vaccines may apply in specific settings.",
+          "consult_doctor": "Seek medical care for signs of dehydration (reduced urine, dizziness), high fever, bloody stools, or prolonged vomiting."
+        },
+        {
+          "symptoms": [
+            "Frequent urination",
+            "Burning sensation while urinating",
+            "Pelvic pain"
+          ],
+          "disease": "Urinary Tract Infection (UTI)",
+          "description": "UTI is an infection of parts of the urinary system (bladder, urethra, or kidneys) usually caused by bacteria.",
+          "prevention": [
+            "Good personal hygiene",
+            "Stay well hydrated",
+            "Urinate after sexual activity"
+          ],
+          "medication": [
+            "Appropriate antibiotics prescribed by a doctor",
+            "Pain relievers and increased fluids"
+          ],
+          "vaccine": "No widely used vaccine; research ongoing.",
+          "consult_doctor": "See a doctor for painful urination, fever, flank pain (possible kidney involvement), or if symptoms recur frequently."
+        },
+        {
+          "symptoms": [
+            "Sore throat",
+            "Difficulty swallowing",
+            "Swollen tonsils",
+            "Fever"
+          ],
+          "disease": "Tonsillitis",
+          "description": "Tonsillitis is inflammation of the tonsils caused by viruses or bacteria, leading to sore throat and swallowing difficulty.",
+          "prevention": [
+            "Avoid close contact with infected people",
+            "Good hand hygiene"
+          ],
+          "medication": [
+            "Analgesics and anti-inflammatories",
+            "Antibiotics if bacterial (e.g., streptococcal) infection confirmed"
+          ],
+          "vaccine": "No specific vaccine for tonsillitis; routine immunizations reduce some causes (e.g., influenza).",
+          "consult_doctor": "Consult a doctor if you have severe throat pain, high fever, drooling, difficulty breathing, or inability to swallow liquids."
+        },
+        {
+          "symptoms": [
+            "Intense itching, especially at night",
+            "Small red bumps or burrows on skin"
+          ],
+          "disease": "Scabies",
+          "description": "Scabies is a contagious skin infestation caused by the mite Sarcoptes scabiei, producing intense itching and rash.",
+          "prevention": [
+            "Avoid prolonged skin-to-skin contact with infected persons",
+            "Wash bedding and clothing of infected persons"
+          ],
+          "medication": [
+            "Topical scabicidal creams (permethrin) or oral ivermectin in some cases",
+            "Treat close contacts simultaneously"
+          ],
+          "vaccine": "No vaccine available.",
+          "consult_doctor": "See a doctor if itching is severe, rash spreads, or symptoms persist after over-the-counter treatment."
+        },
+        {
+          "symptoms": [
+            "Fever",
+            "Swollen salivary glands (around jaw/cheeks)",
+            "Headache"
+          ],
+          "disease": "Mumps",
+          "description": "Mumps is a viral infection that commonly causes painful swelling of the parotid salivary glands and sometimes complications like orchitis.",
+          "prevention": [
+            "MMR (measles-mumps-rubella) vaccination",
+            "Avoid close contact with infected individuals"
+          ],
+          "medication": [
+            "Supportive care (pain relief, hydration)",
+            "No specific antiviral for mumps"
+          ],
+          "vaccine": "Yes — MMR vaccine protects against mumps and is routinely given in childhood immunization schedules.",
+          "consult_doctor": "Consult a doctor if you have severe swelling, high fever, severe headache, or symptoms suggesting complications (e.g., testicular pain, hearing changes)."
+        },
+        {
+          "symptoms": [
+            "Fatigue",
+            "Pale skin",
+            "Shortness of breath",
+            "Dizziness"
+          ],
+          "disease": "Iron-deficiency Anemia",
+          "description": "A condition where the body lacks enough iron to produce adequate hemoglobin, causing reduced oxygen delivery to tissues.",
+          "prevention": [
+            "Eat iron-rich foods (red meat, leafy greens, legumes)",
+            "Treat chronic blood loss",
+            "Use iron supplements when recommended"
+          ],
+          "medication": [
+            "Oral iron supplements (ferrous sulfate) under medical guidance",
+            "Iron intravenous therapy for severe cases",
+            "Address underlying causes"
+          ],
+          "vaccine": "No vaccine available.",
+          "consult_doctor": "See a doctor if you experience persistent fatigue, shortness of breath on minimal exertion, or signs of bleeding (black stool or heavy menstrual bleeding)."
+        },
+        {
+          "symptoms": [
+            "Severe fatigue",
+            "Pale or yellowish skin",
+            "Delayed growth (in children)"
+          ],
+          "disease": "Thalassemia",
+          "description": "A group of inherited blood disorders causing reduced hemoglobin production and varying degrees of anemia.",
+          "prevention": [
+            "Genetic counseling for at-risk couples",
+            "Carrier screening before planned pregnancy"
+          ],
+          "medication": [
+            "Regular blood transfusions for severe forms",
+            "Iron chelation therapy to remove excess iron",
+            "Folic acid supplementation"
+          ],
+          "vaccine": "No vaccine; ensure routine vaccines are up to date due to transfusion-related infection risks.",
+          "consult_doctor": "Consult a hematologist if you have persistent anemia, family history of thalassemia, or require frequent transfusions."
+        },
+        {
+          "symptoms": [
+            "Fever",
+            "Joint pain",
+            "Shortness of breath",
+            "Heart murmur"
+          ],
+          "disease": "Rheumatic Heart Disease",
+          "description": "Heart valve damage resulting from rheumatic fever, which follows untreated group A streptococcal throat infection.",
+          "prevention": [
+            "Prompt treatment of strep throat with appropriate antibiotics",
+            "Secondary prophylaxis with penicillin in diagnosed cases"
+          ],
+          "medication": [
+            "Antibiotics for streptococcal infection",
+            "Anti-inflammatories during acute rheumatic fever",
+            "Long-term antibiotics for prevention of recurrence; valve surgery in severe cases"
+          ],
+          "vaccine": "No vaccine against rheumatic fever; research ongoing for group A strep vaccines.",
+          "consult_doctor": "Seek medical care for persistent fever with sore throat, unexplained joint pain, or new breathlessness — early treatment prevents heart damage."
+        },
+        {
+          "symptoms": [
+            "Sudden weakness on one side",
+            "Facial droop",
+            "Difficulty speaking",
+            "Confusion"
+          ],
+          "disease": "Stroke (Cerebrovascular Accident)",
+          "description": "An interruption of blood flow to part of the brain (ischemic) or bleeding within the brain (hemorrhagic), causing sudden neurological deficits.",
+          "prevention": [
+            "Control blood pressure, diabetes and cholesterol",
+            "Avoid smoking",
+            "Anticoagulation for suitable patients with atrial fibrillation"
+          ],
+          "medication": [
+            "Emergency treatments may include clot-busting drugs (thrombolytics) for eligible ischemic strokes",
+            "Antiplatelets/anticoagulants for prevention",
+            "Rehabilitation therapies"
+          ],
+          "vaccine": "No vaccine available.",
+          "consult_doctor": "Call emergency services immediately for sudden face/arm/leg weakness, speech difficulty, or severe sudden headache — every minute matters."
+        },
+        {
+          "symptoms": [
+            "Tremor (resting)",
+            "Slowness of movement",
+            "Muscle stiffness",
+            "Balance problems"
+          ],
+          "disease": "Parkinson's Disease",
+          "description": "A progressive neurological disorder caused by loss of dopamine-producing brain cells, leading to movement and non-motor symptoms.",
+          "prevention": [
+            "No proven prevention; healthy lifestyle and early evaluation of symptoms may help management"
+          ],
+          "medication": [
+            "Dopaminergic medications (levodopa/carbidopa)",
+            "Dopamine agonists, MAO-B inhibitors, symptomatic therapies",
+            "Physiotherapy and occupational therapy"
+          ],
+          "vaccine": "No vaccine available.",
+          "consult_doctor": "See a neurologist if you experience persistent tremor, slowness, stiffness, or recurrent falls."
+        },
+        {
+          "symptoms": [
+            "Memory loss",
+            "Difficulty planning or solving problems",
+            "Confusion about time/place"
+          ],
+          "disease": "Alzheimer's Disease",
+          "description": "A progressive neurodegenerative disorder and the most common cause of dementia, affecting memory, thinking, and behavior.",
+          "prevention": [
+            "Healthy diet, regular exercise, mental stimulation, and good cardiovascular risk control may reduce risk"
+          ],
+          "medication": [
+            "Medications can modestly slow symptoms (cholinesterase inhibitors, memantine)",
+            "Supportive care, cognitive therapies, caregiver support"
+          ],
+          "vaccine": "No approved vaccine currently; research ongoing.",
+          "consult_doctor": "Consult a doctor if memory problems interfere with daily life, or if there is rapid decline or behavioral changes."
+        },
+        {
+          "symptoms": [
+            "Persistent low mood",
+            "Loss of interest",
+            "Sleep/appetite changes",
+            "Feelings of worthlessness"
+          ],
+          "disease": "Depression (Major Depressive Disorder)",
+          "description": "A common mental health disorder characterized by persistent sadness and loss of interest that impairs daily functioning.",
+          "prevention": [
+            "Maintain social connections, stress management, healthy sleep, and early treatment of symptoms"
+          ],
+          "medication": [
+            "Antidepressants (SSRIs, SNRIs) when indicated",
+            "Psychotherapy (CBT, interpersonal therapy)",
+            "Lifestyle measures and support groups"
+          ],
+          "vaccine": "No vaccine available.",
+          "consult_doctor": "See a healthcare professional if depressive symptoms last more than two weeks, or if there are thoughts of self-harm — seek urgent help for suicidal thoughts."
+        },
+        {
+          "symptoms": [
+            "Excessive worry",
+            "Restlessness",
+            "Rapid heartbeat",
+            "Sleep disturbance"
+          ],
+          "disease": "Generalized Anxiety Disorder / Panic Disorder",
+          "description": "Anxiety disorders cause excessive fear or worry that interferes with daily life; panic disorder includes sudden intense episodes of fear.",
+          "prevention": [
+            "Stress management techniques, regular exercise, good sleep hygiene",
+            "Avoid excessive caffeine and substances that trigger anxiety"
+          ],
+          "medication": [
+            "Short-term benzodiazepines (careful use), SSRIs/SNRIs for long-term control, psychotherapy (CBT)"
+          ],
+          "vaccine": "No vaccine available.",
+          "consult_doctor": "Consult a doctor if anxiety is persistent, disabling, or accompanied by panic attacks, suicidal thoughts, or substance use."
+        },
+        {
+          "symptoms": [
+            "Back pain",
+            "Loss of height",
+            "Fractures with minimal trauma"
+          ],
+          "disease": "Osteoporosis",
+          "description": "A condition where bones become weak and brittle, increasing the risk of fractures.",
+          "prevention": [
+            "Adequate calcium and vitamin D intake",
+            "Weight-bearing exercise",
+            "Avoid smoking and excessive alcohol"
+          ],
+          "medication": [
+            "Bisphosphonates, selective estrogen receptor modulators, parathyroid hormone analogs in specific cases",
+            "Calcium and vitamin D supplements"
+          ],
+          "vaccine": "No vaccine available.",
+          "consult_doctor": "See a doctor for risk assessment if you have risk factors (postmenopausal women, long-term steroid use) or after any low-trauma fracture."
+        },
+        {
+          "symptoms": [
+            "Fatigue",
+            "Weight gain",
+            "Cold intolerance",
+            "Constipation"
+          ],
+          "disease": "Hypothyroidism",
+          "description": "Underactive thyroid gland producing insufficient thyroid hormones, causing slowed metabolism and multiple systemic symptoms.",
+          "prevention": [
+            "No direct prevention for autoimmune causes; awareness and screening in at-risk groups (family history, postpartum)"
+          ],
+          "medication": [
+            "Thyroid hormone replacement (levothyroxine) with dose monitoring",
+            "Manage associated conditions"
+          ],
+          "vaccine": "No vaccine available.",
+          "consult_doctor": "Consult a doctor if you have persistent fatigue, unexplained weight gain, cold intolerance, or swelling of the neck (goiter)."
+        },
+        {
+          "symptoms": [
+            "Excessive thirst",
+            "Frequent urination",
+            "Unexplained weight loss",
+            "Fatigue"
+          ],
+          "disease": "Diabetes Mellitus (Type 1 & Type 2)",
+          "description": "A chronic condition where the body cannot properly regulate blood glucose levels due to lack of insulin (Type 1) or insulin resistance (Type 2).",
+          "prevention": [
+            "Maintain healthy diet and weight",
+            "Regular exercise",
+            "Avoid excessive sugar intake",
+            "Routine blood sugar checks in high-risk groups"
+          ],
+          "medication": [
+            "Insulin therapy for Type 1",
+            "Oral hypoglycemics (metformin, sulfonylureas) or insulin for Type 2"
+          ],
+          "vaccine": "No vaccine available.",
+          "consult_doctor": "Consult immediately if you experience unexplained weight loss, excessive thirst, or frequent urination. Emergency care is needed for diabetic ketoacidosis (nausea, abdominal pain, fruity-smelling breath)."
+        },
+        {
+          "symptoms": [
+            "Persistent cough with blood",
+            "Chest pain",
+            "Night sweats",
+            "Fever"
+          ],
+          "disease": "Tuberculosis (TB)",
+          "description": "A bacterial infection caused by Mycobacterium tuberculosis, most commonly affecting the lungs but can spread to other organs.",
+          "prevention": [
+            "BCG vaccination",
+            "Early detection and treatment",
+            "Good ventilation and mask use in high-risk areas"
+          ],
+          "medication": [
+            "6-month course of anti-TB drugs (isoniazid, rifampicin, pyrazinamide, ethambutol) under medical supervision"
+          ],
+          "vaccine": "BCG vaccine is recommended, especially in countries with high TB prevalence.",
+          "consult_doctor": "Seek medical attention if cough persists for more than 2 weeks, especially with blood-stained sputum, fever, or night sweats."
+        },
+        {
+          "symptoms": [
+            "High fever",
+            "Severe joint and muscle pain",
+            "Rash",
+            "Headache"
+          ],
+          "disease": "Dengue Fever",
+          "description": "A mosquito-borne viral infection causing flu-like symptoms, which can progress to severe dengue with bleeding and organ damage.",
+          "prevention": [
+            "Avoid mosquito bites with nets and repellents",
+            "Eliminate standing water",
+            "Community vector control programs"
+          ],
+          "medication": [
+            "No specific antiviral drug; supportive treatment with fluids, rest, and paracetamol (avoid aspirin/NSAIDs)"
+          ],
+          "vaccine": "Dengvaxia is available in some countries for previously infected individuals.",
+          "consult_doctor": "Seek urgent medical care if you develop bleeding, severe abdominal pain, persistent vomiting, or difficulty breathing."
+        },
+        {
+          "symptoms": [
+            "Fever",
+            "Chills",
+            "Sweating",
+            "Headache",
+            "Nausea"
+          ],
+          "disease": "Malaria",
+          "description": "A life-threatening mosquito-borne parasitic disease caused by Plasmodium species, transmitted by the bite of female Anopheles mosquitoes.",
+          "prevention": [
+            "Use insecticide-treated mosquito nets",
+            "Indoor spraying",
+            "Prophylactic antimalarial drugs when traveling to endemic areas"
+          ],
+          "medication": [
+            "Antimalarial drugs such as artemisinin-based combination therapy (ACT)",
+            "Chloroquine or quinine depending on resistance patterns"
+          ],
+          "vaccine": "RTS,S malaria vaccine is available for children in high-risk regions.",
+          "consult_doctor": "Seek immediate medical attention if fever develops after visiting malaria-endemic areas, especially if accompanied by chills or sweats."
+        },
+        {
+          "symptoms": [
+            "Jaundice (yellow eyes/skin)",
+            "Dark urine",
+            "Loss of appetite",
+            "Fatigue"
+          ],
+          "disease": "Hepatitis B",
+          "description": "A viral infection of the liver caused by Hepatitis B virus, transmitted through blood, sexual contact, and mother-to-child transmission.",
+          "prevention": [
+            "Hepatitis B vaccination",
+            "Safe sex practices",
+            "Avoid sharing needles",
+            "Screening blood before transfusion"
+          ],
+          "medication": [
+            "Antiviral drugs (tenofovir, entecavir) for chronic cases",
+            "Supportive care for acute infection"
+          ],
+          "vaccine": "Yes, highly effective Hepatitis B vaccine available and part of universal immunization schedules.",
+          "consult_doctor": "Consult a doctor if you notice jaundice, persistent fatigue, or have been exposed to infected blood/fluids."
+        },
+        {
+          "symptoms": [
+            "Runny nose",
+            "Sore throat",
+            "Cough",
+            "Sneezing",
+            "Mild fever"
+          ],
+          "disease": "Common Cold",
+          "description": "A mild viral infection of the upper respiratory tract caused by rhinoviruses and other viruses.",
+          "prevention": [
+            "Frequent handwashing",
+            "Avoid close contact with infected individuals",
+            "Strengthen immunity with proper rest and nutrition"
+          ],
+          "medication": [
+            "No cure; symptomatic treatment with rest, hydration, and over-the-counter medicines for congestion/fever"
+          ],
+          "vaccine": "No vaccine available.",
+          "consult_doctor": "Usually self-limiting; consult a doctor if symptoms last more than 10 days, worsen, or if severe breathing difficulty occurs."
+        },
+        {
+          "symptoms": [
+            "Sore throat",
+            "Fever",
+            "Swollen lymph nodes",
+            "White patches on tonsils"
+          ],
+          "disease": "Strep Throat",
+          "description": "A bacterial throat infection caused by Group A Streptococcus bacteria.",
+          "prevention": [
+            "Avoid sharing utensils",
+            "Good hand hygiene",
+            "Treat infected individuals promptly"
+          ],
+          "medication": [
+            "Antibiotics (penicillin or amoxicillin) prescribed by a doctor",
+            "Pain relievers for symptom relief"
+          ],
+          "vaccine": "No vaccine available.",
+          "consult_doctor": "See a doctor if sore throat is severe, lasts more than 3 days, or is accompanied by high fever and swollen lymph nodes."
+        },
+        {
+          "symptoms": [
+            "Severe headache",
+            "Neck stiffness",
+            "Fever",
+            "Sensitivity to light"
+          ],
+          "disease": "Meningitis",
+          "description": "An infection of the protective membranes covering the brain and spinal cord, caused by bacteria, viruses, or fungi.",
+          "prevention": [
+            "Vaccination (meningococcal, Hib, pneumococcal)",
+            "Prompt treatment of respiratory infections",
+            "Avoid close contact with infected individuals"
+          ],
+          "medication": [
+            "Immediate antibiotics for bacterial meningitis",
+            "Antivirals for viral meningitis in some cases",
+            "Supportive hospital care"
+          ],
+          "vaccine": "Yes, vaccines against common bacterial causes (Hib, meningococcal, pneumococcal) are available.",
+          "consult_doctor": "Emergency medical attention is required if sudden headache, fever, and neck stiffness occur — meningitis can be life-threatening."
+        },
+        {
+          "symptoms": [
+            "Abdominal pain",
+            "Diarrhea",
+            "Bloody stools",
+            "Weight loss"
+          ],
+          "disease": "Ulcerative Colitis",
+          "description": "A chronic inflammatory bowel disease that causes inflammation and ulcers in the lining of the colon and rectum.",
+          "prevention": [
+            "No specific prevention; healthy diet and stress management may help",
+            "Regular monitoring for flare-ups"
+          ],
+          "medication": [
+            "Anti-inflammatory drugs (5-ASA compounds)",
+            "Corticosteroids during flare-ups",
+            "Immunosuppressants or biologics in severe cases"
+          ],
+          "vaccine": "No vaccine available.",
+          "consult_doctor": "Consult a gastroenterologist if persistent bloody diarrhea, abdominal pain, or unexplained weight loss occurs."
+        },
+        {
+          "symptoms": [
+            "Increased thirst",
+            "Frequent urination",
+            "Blurred vision",
+            "Tingling in hands/feet"
+          ],
+          "disease": "Diabetic Neuropathy",
+          "description": "A complication of diabetes that causes nerve damage, particularly in the legs and feet.",
+          "prevention": [
+            "Good blood sugar control",
+            "Healthy lifestyle with exercise and proper diet",
+            "Regular foot care"
+          ],
+          "medication": [
+            "Pain relievers",
+            "Antidepressants or anticonvulsants for nerve pain",
+            "Blood sugar management"
+          ],
+          "vaccine": "No vaccine available.",
+          "consult_doctor": "Seek medical attention if you have diabetes with numbness, pain, or sores on feet that do not heal."
+        },
+        {
+          "symptoms": [
+            "Persistent cough",
+            "Wheezing",
+            "Chest tightness",
+            "Shortness of breath"
+          ],
+          "disease": "Asthma",
+          "description": "A chronic inflammatory disease of the airways causing recurrent breathing problems.",
+          "prevention": [
+            "Avoid allergens and triggers",
+            "Quit smoking",
+            "Maintain healthy weight",
+            "Regular check-ups"
+          ],
+          "medication": [
+            "Inhaled corticosteroids",
+            "Bronchodilators",
+            "Leukotriene modifiers"
+          ],
+          "vaccine": "No vaccine available.",
+          "consult_doctor": "Seek immediate care if asthma attacks are frequent, severe, or unresponsive to inhalers."
+        },
+        {
+          "symptoms": [
+            "Frequent urination",
+            "Pelvic pain",
+            "Burning sensation during urination"
+          ],
+          "disease": "Urinary Tract Infection (UTI)",
+          "description": "An infection of the urinary system, commonly affecting bladder and urethra, caused by bacteria.",
+          "prevention": [
+            "Hydrate well",
+            "Practice good hygiene",
+            "Urinate after sexual activity"
+          ],
+          "medication": [
+            "Antibiotics prescribed by a doctor",
+            "Pain relievers for discomfort"
+          ],
+          "vaccine": "No vaccine available.",
+          "consult_doctor": "See a doctor if symptoms persist, worsen, or are accompanied by fever and back pain (possible kidney infection)."
+        },
+        {
+          "symptoms": [
+            "Persistent fever",
+            "Coughing up blood",
+            "Weight loss",
+            "Night sweats"
+          ],
+          "disease": "Lung Cancer",
+          "description": "A type of cancer that starts in the lungs, often linked to smoking and environmental factors.",
+          "prevention": [
+            "Quit smoking",
+            "Avoid exposure to carcinogens (asbestos, radon)",
+            "Regular screening in high-risk individuals"
+          ],
+          "medication": [
+            "Surgery, chemotherapy, radiotherapy, targeted therapy, immunotherapy (depending on stage)"
+          ],
+          "vaccine": "No vaccine available.",
+          "consult_doctor": "Seek medical care if chronic cough worsens, especially with blood-stained sputum or unexplained weight loss."
+        },
+        {
+          "symptoms": [
+            "Extreme thirst",
+            "Frequent urination",
+            "Fruity-smelling breath",
+            "Abdominal pain"
+          ],
+          "disease": "Diabetic Ketoacidosis (DKA)",
+          "description": "A life-threatening diabetes complication where the body produces high levels of blood acids (ketones).",
+          "prevention": [
+            "Proper diabetes management",
+            "Monitor blood sugar and ketone levels",
+            "Do not skip insulin"
+          ],
+          "medication": [
+            "Hospital treatment with IV fluids, insulin therapy, electrolyte replacement"
+          ],
+          "vaccine": "No vaccine available.",
+          "consult_doctor": "Emergency medical treatment is required — DKA can be fatal if untreated."
+        },
+        {
+          "symptoms": [
+            "High fever",
+            "Cough",
+            "Shortness of breath",
+            "Chest pain"
+          ],
+          "disease": "Pneumonia",
+          "description": "An infection of the lungs that can be caused by bacteria, viruses, or fungi, leading to inflammation and fluid in the alveoli.",
+          "prevention": [
+            "Vaccination (pneumococcal, Hib, influenza)",
+            "Good hygiene",
+            "Avoid smoking"
+          ],
+          "medication": [
+            "Antibiotics for bacterial pneumonia",
+            "Antivirals or antifungals as indicated",
+            "Oxygen therapy for severe cases"
+          ],
+          "vaccine": "Yes, pneumococcal and Hib vaccines available.",
+          "consult_doctor": "Seek urgent care if breathing difficulty, chest pain, or high fever occurs."
+        },
+        {
+          "symptoms": [
+            "High blood pressure",
+            "Headache",
+            "Blurred vision",
+            "Fatigue"
+          ],
+          "disease": "Hypertension",
+          "description": "A chronic condition where blood pressure remains persistently elevated, increasing risk of heart disease and stroke.",
+          "prevention": [
+            "Reduce salt intake",
+            "Maintain healthy weight",
+            "Exercise regularly",
+            "Avoid smoking and alcohol"
+          ],
+          "medication": [
+            "Antihypertensives (ACE inhibitors, beta-blockers, diuretics, calcium channel blockers)"
+          ],
+          "vaccine": "No vaccine available.",
+          "consult_doctor": "Consult if blood pressure is consistently high or if you experience headaches, chest pain, or blurred vision."
+        },
+        {
+          "symptoms": [
+            "Chest pain",
+            "Sweating",
+            "Shortness of breath",
+            "Nausea"
+          ],
+          "disease": "Heart Attack (Myocardial Infarction)",
+          "description": "A medical emergency where blood flow to the heart muscle is blocked, causing tissue damage.",
+          "prevention": [
+            "Maintain healthy lifestyle",
+            "Control blood pressure, cholesterol, and diabetes",
+            "Quit smoking"
+          ],
+          "medication": [
+            "Emergency treatment with aspirin, thrombolytics, angioplasty, stenting, or bypass surgery"
+          ],
+          "vaccine": "No vaccine available.",
+          "consult_doctor": "Call emergency services immediately if chest pain persists beyond a few minutes or radiates to the arm/jaw."
+        },
+        {
+          "symptoms": [
+            "Severe abdominal pain",
+            "Bloating",
+            "Nausea",
+            "Fever"
+          ],
+          "disease": "Appendicitis",
+          "description": "Inflammation of the appendix, often requiring urgent surgical removal.",
+          "prevention": [
+            "No specific prevention; maintaining high-fiber diet may reduce risk"
+          ],
+          "medication": [
+            "Surgery (appendectomy)",
+            "Antibiotics before and after surgery"
+          ],
+          "vaccine": "No vaccine available.",
+          "consult_doctor": "Seek emergency medical care for sudden severe lower-right abdominal pain with fever."
+        },
+        {
+          "symptoms": [
+            "Thirst",
+            "Frequent urination",
+            "Confusion",
+            "Muscle weakness"
+          ],
+          "disease": "Hypercalcemia",
+          "description": "A condition where calcium levels in the blood are above normal, often due to overactive parathyroid glands or cancer.",
+          "prevention": [
+            "Routine screening for high-risk individuals",
+            "Avoid excessive vitamin D and calcium supplements"
+          ],
+          "medication": [
+            "IV fluids, diuretics, bisphosphonates, calcitonin (depending on cause)"
+          ],
+          "vaccine": "No vaccine available.",
+          "consult_doctor": "See a doctor if experiencing confusion, persistent nausea, or kidney stones."
+        },
+        {
+          "symptoms": [
+            "Weight loss",
+            "Night sweats",
+            "Persistent fever",
+            "Swollen lymph nodes"
+          ],
+          "disease": "Lymphoma",
+          "description": "A type of blood cancer that begins in lymphocytes (white blood cells) and affects the lymphatic system.",
+          "prevention": [
+            "No specific prevention; awareness and early detection improve outcomes"
+          ],
+          "medication": [
+            "Chemotherapy, radiotherapy, immunotherapy, stem cell transplant (depending on type and stage)"
+          ],
+          "vaccine": "No vaccine available.",
+          "consult_doctor": "Consult a doctor if persistent lymph node swelling, night sweats, or unexplained fever/weight loss occurs."
+        },
+        {
+          "symptoms": [
+            "Rapid heartbeat",
+            "Weight loss",
+            "Sweating",
+            "Irritability"
+          ],
+          "disease": "Hyperthyroidism",
+          "description": "A condition where the thyroid gland produces too much thyroid hormone, speeding up body metabolism.",
+          "prevention": [
+            "Regular screening if family history",
+            "Avoid excess iodine intake",
+            "Manage stress"
+          ],
+          "medication": [
+            "Antithyroid drugs (methimazole, propylthiouracil)",
+            "Beta-blockers for symptom relief",
+            "Radioactive iodine or surgery if needed"
+          ],
+          "vaccine": "No vaccine available.",
+          "consult_doctor": "Seek medical attention if persistent palpitations, weight loss, or unexplained anxiety occur."
+        },
+        {
+          "symptoms": [
+            "Fever",
+            "Fatigue",
+            "Swollen lymph nodes",
+            "Sore throat"
+          ],
+          "disease": "Infectious Mononucleosis (Mono)",
+          "description": "A viral infection usually caused by Epstein-Barr Virus (EBV), spread through saliva.",
+          "prevention": [
+            "Avoid sharing drinks/utensils",
+            "Maintain good hygiene"
+          ],
+          "medication": [
+            "No specific treatment; supportive care with rest, fluids, and pain relievers"
+          ],
+          "vaccine": "No vaccine currently available.",
+          "consult_doctor": "Consult if severe fatigue persists, or if there is abdominal pain suggesting an enlarged spleen."
+        },
+        {
+          "symptoms": [
+            "Persistent sadness",
+            "Mood swings",
+            "Loss of interest",
+            "Sleep disturbances"
+          ],
+          "disease": "Bipolar Disorder",
+          "description": "A mental health condition marked by extreme mood swings including emotional highs (mania) and lows (depression).",
+          "prevention": [
+            "Stress management",
+            "Regular sleep schedule",
+            "Avoid substance abuse"
+          ],
+          "medication": [
+            "Mood stabilizers (lithium, valproate)",
+            "Antipsychotics",
+            "Psychotherapy"
+          ],
+          "vaccine": "No vaccine available.",
+          "consult_doctor": "Seek psychiatric evaluation if experiencing prolonged depression or episodes of mania with risky behaviors."
+        },
+        {
+          "symptoms": [
+            "Joint pain",
+            "Morning stiffness",
+            "Swelling in joints",
+            "Fatigue"
+          ],
+          "disease": "Rheumatoid Arthritis",
+          "description": "An autoimmune disease causing chronic inflammation of joints, leading to pain and deformity.",
+          "prevention": [
+            "No absolute prevention; avoid smoking",
+            "Maintain healthy lifestyle"
+          ],
+          "medication": [
+            "Disease-modifying drugs (methotrexate, biologics)",
+            "NSAIDs and corticosteroids for symptom relief"
+          ],
+          "vaccine": "No vaccine available.",
+          "consult_doctor": "See a doctor if persistent joint pain and stiffness occur, especially in the morning."
+        },
+        {
+          "symptoms": [
+            "Abdominal pain",
+            "Diarrhea",
+            "Weight loss",
+            "Fatigue"
+          ],
+          "disease": "Crohn's Disease",
+          "description": "A chronic inflammatory bowel disease affecting the digestive tract, leading to severe digestive symptoms.",
+          "prevention": [
+            "No specific prevention; avoid smoking and manage stress"
+          ],
+          "medication": [
+            "Anti-inflammatory drugs (steroids)",
+            "Immunosuppressants",
+            "Biologic therapies"
+          ],
+          "vaccine": "No vaccine available.",
+          "consult_doctor": "Consult a gastroenterologist for persistent abdominal pain, blood in stool, or unexplained weight loss."
+        },
+        {
+          "symptoms": [
+            "Frequent urination at night",
+            "Difficulty starting urination",
+            "Weak urine flow"
+          ],
+          "disease": "Benign Prostatic Hyperplasia (BPH)",
+          "description": "Non-cancerous enlargement of the prostate gland, common in older men, causing urinary problems.",
+          "prevention": [
+            "Regular prostate screening after age 50",
+            "Healthy lifestyle"
+          ],
+          "medication": [
+            "Alpha-blockers",
+            "5-alpha reductase inhibitors",
+            "Surgery in severe cases"
+          ],
+          "vaccine": "No vaccine available.",
+          "consult_doctor": "See a urologist if urination difficulties affect daily life or are associated with pain/blood in urine."
+        },
+        {
+          "symptoms": [
+            "Itchy red patches",
+            "Dry scaly skin",
+            "Cracked skin"
+          ],
+          "disease": "Psoriasis",
+          "description": "A chronic autoimmune skin condition causing rapid skin cell buildup, leading to scaling and inflammation.",
+          "prevention": [
+            "Avoid triggers like stress, smoking, infections",
+            "Maintain skin hydration"
+          ],
+          "medication": [
+            "Topical steroids",
+            "Phototherapy",
+            "Systemic drugs (methotrexate, biologics)"
+          ],
+          "vaccine": "No vaccine available.",
+          "consult_doctor": "Consult if skin lesions are widespread, painful, or associated with joint pain."
+        },
+        {
+          "symptoms": [
+            "Bone pain",
+            "Frequent fractures",
+            "Deformities"
+          ],
+          "disease": "Rickets (in children) / Osteomalacia (in adults)",
+          "description": "A condition caused by Vitamin D, calcium, or phosphate deficiency leading to soft, weak bones.",
+          "prevention": [
+            "Adequate sunlight exposure",
+            "Balanced diet with Vitamin D and calcium"
+          ],
+          "medication": [
+            "Vitamin D and calcium supplements"
+          ],
+          "vaccine": "No vaccine available.",
+          "consult_doctor": "Consult if child has delayed growth, bone deformities, or if adults have bone pain and weakness."
+        },
+        {
+          "symptoms": [
+            "Excessive thirst",
+            "Frequent urination",
+            "Dehydration"
+          ],
+          "disease": "Diabetes Insipidus",
+          "description": "A rare condition where kidneys cannot conserve water, leading to excessive urination and thirst.",
+          "prevention": [
+            "No known prevention; genetic counseling in hereditary cases"
+          ],
+          "medication": [
+            "Desmopressin (synthetic ADH)",
+            "Adequate fluid intake"
+          ],
+          "vaccine": "No vaccine available.",
+          "consult_doctor": "See a doctor if urine output is abnormally high and persistent despite adequate hydration."
+        },
+        {
+          "symptoms": [
+            "Seizures",
+            "Uncontrolled movements",
+            "Confusion",
+            "Loss of consciousness"
+          ],
+          "disease": "Epilepsy",
+          "description": "A neurological disorder where abnormal brain activity causes recurrent seizures.",
+          "prevention": [
+            "Avoid head injuries",
+            "Manage risk factors",
+            "Take prescribed medication regularly"
+          ],
+          "medication": [
+            "Antiepileptic drugs (valproate, carbamazepine, levetiracetam)",
+            "Surgery in select cases"
+          ],
+          "vaccine": "No vaccine available.",
+          "consult_doctor": "Seek medical help if seizures occur repeatedly, last more than 5 minutes, or cause injury/unconsciousness."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Want to Know about Vaccination",
+      "description": "Get details about vaccines available for different diseases.",
+      "data": [
+        {
+          "name": "Vaccination Schedule",
+          "description": "Recommended vaccination schedule for different age groups.",
+          "schedule": [
+            {
+              "age_group": "0-6 months",
+              "vaccines": [
+                {
+                  "name": "BCG",
+                  "dose": "At birth"
+                },
+                {
+                  "name": "OPV-0",
+                  "dose": "At birth"
+                },
+                {
+                  "name": "Hepatitis B-1",
+                  "dose": "At birth"
+                },
+                {
+                  "name": "DTP-1",
+                  "dose": "6 weeks"
+                },
+                {
+                  "name": "IPV-1",
+                  "dose": "6 weeks"
+                },
+                {
+                  "name": "Hib-1",
+                  "dose": "6 weeks"
+                },
+                {
+                  "name": "Hepatitis B-2",
+                  "dose": "6 weeks"
+                },
+                {
+                  "name": "Rotavirus-1",
+                  "dose": "6 weeks"
+                },
+                {
+                  "name": "PCV-1",
+                  "dose": "6 weeks"
+                }
+              ]
+            },
+            {
+              "age_group": "6-12 months",
+              "vaccines": [
+                {
+                  "name": "DTP-2",
+                  "dose": "10 weeks"
+                },
+                {
+                  "name": "IPV-2",
+                  "dose": "10 weeks"
+                },
+                {
+                  "name": "Hib-2",
+                  "dose": "10 weeks"
+                },
+                {
+                  "name": "Rotavirus-2",
+                  "dose": "10 weeks"
+                },
+                {
+                  "name": "PCV-2",
+                  "dose": "10 weeks"
+                },
+                {
+                  "name": "DTP-3",
+                  "dose": "14 weeks"
+                },
+                {
+                  "name": "IPV-3",
+                  "dose": "14 weeks"
+                },
+                {
+                  "name": "Hib-3",
+                  "dose": "14 weeks"
+                },
+                {
+                  "name": "Rotavirus-3",
+                  "dose": "14 weeks"
+                },
+                {
+                  "name": "PCV-3",
+                  "dose": "14 weeks"
+                }
+              ]
+            },
+            {
+              "age_group": "12-24 months",
+              "vaccines": [
+                {
+                  "name": "Measles-1",
+                  "dose": "9 months"
+                },
+                {
+                  "name": "MR-1",
+                  "dose": "9 months"
+                },
+                {
+                  "name": "JE-1",
+                  "dose": "9 months"
+                },
+                {
+                  "name": "Measles-2",
+                  "dose": "16-24 months"
+                },
+                {
+                  "name": "MR-2",
+                  "dose": "16-24 months"
+                },
+                {
+                  "name": "JE-2",
+                  "dose": "16-24 months"
+                }
+              ]
+            },
+            {
+              "age_group": "2-5 years",
+              "vaccines": [
+                {
+                  "name": "DTP Booster-1",
+                  "dose": "16-24 months"
+                },
+                {
+                  "name": "OPV Booster",
+                  "dose": "16-24 months"
+                }
+              ]
+            },
+            {
+              "age_group": "5-12 years",
+              "vaccines": [
+                {
+                  "name": "DTP Booster-2",
+                  "dose": "5-6 years"
+                },
+                {
+                  "name": "Tdap/Td",
+                  "dose": "10 years"
+                }
+              ]
+            },
+            {
+              "age_group": "12-18 years",
+              "vaccines": [
+                {
+                  "name": "HPV (for girls)",
+                  "dose": "9-14 years (2 doses) or 15-18 years (3 doses)"
+                },
+                {
+                  "name": "Tdap/Td",
+                  "dose": "16 years"
+                }
+              ]
+            },
+            {
+              "age_group": "18-30 years",
+              "vaccines": [
+                {
+                  "name": "Tdap/Td Booster",
+                  "dose": "Every 10 years"
+                },
+                {
+                  "name": "Hepatitis B",
+                  "dose": "3-dose series if not previously vaccinated"
+                },
+                {
+                  "name": "Varicella",
+                  "dose": "2 doses if not previously vaccinated"
+                }
+              ]
+            },
+            {
+              "age_group": "30-50 years",
+              "vaccines": [
+                {
+                  "name": "Tdap/Td Booster",
+                  "dose": "Every 10 years"
+                },
+                {
+                  "name": "Influenza",
+                  "dose": "Annually"
+                },
+                {
+                  "name": "HPV (catch-up, up to 26 yrs)",
+                  "dose": "If not previously vaccinated"
+                }
+              ]
+            },
+            {
+              "age_group": "50-60 years",
+              "vaccines": [
+                {
+                  "name": "Influenza",
+                  "dose": "Annually"
+                },
+                {
+                  "name": "Shingles (Herpes Zoster)",
+                  "dose": "2 doses starting at age 50"
+                },
+                {
+                  "name": "Pneumococcal (PPSV23/PCV13)",
+                  "dose": "Single or series, esp. if chronic illness"
+                }
+              ]
+            },
+            {
+              "age_group": "60+ years (Elderly)",
+              "vaccines": [
+                {
+                  "name": "Influenza",
+                  "dose": "Annually"
+                },
+                {
+                  "name": "Pneumococcal (PPSV23/PCV13)",
+                  "dose": "1-2 doses as per risk factors"
+                },
+                {
+                  "name": "Shingles (Herpes Zoster)",
+                  "dose": "2 doses"
+                },
+                {
+                  "name": "Tdap/Td",
+                  "dose": "Every 10 years"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

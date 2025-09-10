@@ -1,0 +1,1604 @@
+add this data to section you know symptoms don't know disease
+1. Common Cold and Flu
+Symptoms
+Sneezing
+
+Runny or stuffy nose
+
+Sore throat
+
+Fever
+
+Headache
+
+Disease Definition
+Common cold and flu are viral respiratory infections that primarily impact the nose, throat, and airways. They spread easily through contact and are usually self-limiting but can lead to complications in vulnerable populations.
+
+Prevention
+Frequent hand washing
+
+Avoiding sudden temperature changes
+
+Boosting immunity with vitamin C
+
+Medication
+Paracetamol, antihistamines, decongestants (for symptom relief)
+
+Vaccine Required
+Flu vaccine recommended for high-risk groups; no vaccine for common cold
+
+2. Dengue
+Symptoms
+High fever
+
+Severe headache
+
+Pain behind eyes
+
+Joint and muscle pain
+
+Rash
+
+Disease Definition
+Dengue is a mosquito-borne viral disease prevalent during monsoon. It causes fever and, in severe cases, hemorrhagic complications. Prompt hydration and monitoring can prevent life-threatening outcomes.
+
+Prevention
+Mosquito repellents
+
+Removing stagnant water
+
+Wearing protective clothing
+
+Medication
+Supportive care (fluids, acetaminophen for pain/fever)
+
+Vaccine Required
+Dengue vaccine available but mainly for high-risk populations, consult medical professional
+
+3. Malaria
+Symptoms
+High fever
+
+Chills and sweating
+
+Headache
+
+Muscle aches
+
+Fatigue
+
+Disease Definition
+Malaria is caused by parasites transmitted by mosquitoes. Without treatment, severe complications including organ failure can develop, especially in children and pregnant women.
+
+Prevention
+Using mosquito nets and repellents
+
+Preventing water stagnation
+
+Indoor residual spraying
+
+Medication
+Antimalarial drugs (e.g., chloroquine, artemisinin derivatives)
+
+Vaccine Required
+Malaria vaccine is not part of the standard immunization; some new vaccines available in select settings
+
+4. Typhoid
+Symptoms
+Prolonged fever
+
+Weakness
+
+Loss of appetite
+
+Abdominal pain
+
+Headache
+
+Disease Definition
+Typhoid fever is a bacterial infection from contaminated food or water, causing systemic illness and intestinal complications. If not managed, it can be life threatening.
+
+Prevention
+Drinking boiled/filtered water
+
+Avoiding unclean street food
+
+Proper hand hygiene
+
+Medication
+Antibiotics (e.g., ciprofloxacin, azithromycin)
+
+Vaccine Required
+Typhoid vaccination recommended in endemic areas
+
+5. Diabetes
+Symptoms
+Excessive thirst
+
+Frequent urination
+
+Fatigue
+
+Sudden weight changes
+
+Excess Hunger
+
+Disease Definition
+Diabetes is a metabolic disorder with high blood sugar due to insulin resistance or deficiency. It leads to complications like heart disease, nerve damage, and kidney failure.
+
+Prevention
+Balanced, low-sugar diet
+
+Regular exercise
+
+Yearly blood sugar check-ups
+
+Medication
+Oral hypoglycemic agents (metformin, sulfonylureas) and/or insulin
+
+Vaccine Required
+No specific vaccine; general immunity enhancement recommended
+
+6. Hypertension
+Symptoms
+Headaches
+
+Dizziness
+
+Fatigue
+
+Sometimes asymptomatic
+
+Disease Definition
+Hypertension is persistently high blood pressure, often without symptoms, increasing risk for heart attacks and stroke.
+
+Prevention
+Limit salt/junk food
+
+Sleep 7-8 hours
+
+Manage stress
+
+Medication
+Antihypertensive drugs (e.g., ACE inhibitors, beta-blockers, diuretics)
+
+Vaccine Required
+No vaccine required
+
+7. Tuberculosis (TB)
+Symptoms
+Persistent cough (over 2 weeks)
+
+Chest pain
+
+Night sweats
+
+Weight loss
+
+Fever on and off
+
+Disease Definition
+TB is a bacterial lung infection that can spread to other parts of the body. It is highly contagious and needs long-term antibiotics.
+
+Prevention
+Vaccination (BCG)
+
+Proper ventilation
+
+Cough etiquette
+
+Medication
+Combination of antibiotics for 6-9 months (isoniazid, rifampicin, etc.)
+
+Vaccine Required
+BCG vaccine recommended, especially for children
+
+8. Skin Infections
+Symptoms
+Rashes
+
+Itching
+
+Redness or white patches
+
+Blisters or pus
+
+Disease Definition
+Skin infections and fungal problems are common due to humidity, pollution, and sweat. Bacterial, viral, or fungal agents can cause a wide range of lesions.
+
+Prevention
+Keep skin clean/dry
+
+Wear breathable clothes
+
+Avoid sharing personal items
+
+Medication
+Antibiotics, antifungal creams or oral medication based on type
+
+Vaccine Required
+Vaccine not usually required for common skin infections
+
+9. Gastroenteritis
+Symptoms
+Vomiting
+
+Diarrhea
+
+Stomach cramps
+
+Fever
+
+Dehydration
+
+Disease Definition
+Gastroenteritis is an infection of the stomach/intestines, usually viral or bacterial, leading to dehydration and discomfort especially in children.
+
+Prevention
+Wash food, fruits, vegetables
+
+Drink clean water
+
+Good hand hygiene
+
+Medication
+Oral rehydration, antiemetics, antibiotics if bacterial
+
+Vaccine Required
+Rotavirus vaccine for infants, polio vaccine for overall prevention
+
+10. Respiratory Infections (Asthma, Bronchitis)
+Symptoms
+Cough
+
+Wheezing
+
+Shortness of breath
+
+Chest tightness
+
+Fatigue
+
+Disease Definition
+Respiratory infections and conditions such as asthma/bronchitis are worsened by pollution. They cause inflammation in airways and can lead to chronic issues.
+
+Prevention
+Avoid smoking/second-hand smoke
+
+Wear masks in polluted environments
+
+Use air purifiers indoors
+
+Medication
+Inhalers (bronchodilators, steroids), antibiotics for infections
+
+Vaccine Required
+Influenza and pneumococcal vaccines recommended for high-risk groups
+
+11. Cholera
+Symptoms
+Profuse watery diarrhea
+
+Vomiting
+
+Rapid dehydration
+
+Muscle cramps
+
+Sunken eyes
+
+Disease Definition
+Cholera is an acute diarrheal illness caused by Vibrio cholerae bacteria, spread through contaminated water and food, and can lead to severe dehydration and death if untreated.
+
+Prevention
+Drink clean/boiled water
+
+Proper sanitation
+
+Hand hygiene
+
+Medication
+Oral rehydration salts (ORS), IV fluids, antibiotics in severe cases
+
+Vaccine Required
+Cholera vaccine recommended in endemic areas and outbreaks
+
+12. Hepatitis B
+Symptoms
+Jaundice
+
+Fatigue
+
+Abdominal pain
+
+Dark urine
+
+Joint pain
+
+Disease Definition
+Hepatitis B is a viral infection of the liver, transmitted via blood and bodily fluids. Chronic cases can cause liver failure and cancer.
+
+Prevention
+Safe sex
+
+Avoid sharing needles
+
+Screen blood products
+
+Medication
+Antivirals (e.g., tenofovir, entecavir) for chronic infection
+
+Vaccine Required
+Routine Hepatitis B vaccine given to infants and at-risk groups
+
+13. Hepatitis C
+Symptoms
+Fatigue
+
+Joint pain
+
+Abdominal discomfort
+
+Jaundice
+
+Poor appetite
+
+Disease Definition
+Hepatitis C is a liver infection caused by HCV, mainly spread by blood contact. It often becomes chronic, leading to liver cirrhosis and cancer.
+
+Prevention
+Avoid sharing needles
+
+Screen blood transfusions
+
+Use safe sex practices
+
+Medication
+Direct-acting antivirals (sofosbuvir, daclatasvir)
+
+Vaccine Required
+No vaccine available; prevention is key
+
+14. HIV/AIDS
+Symptoms
+Rapid weight loss
+
+Night sweats
+
+Extreme fatigue
+
+Persistent fever
+
+Opportunistic infections
+
+Disease Definition
+HIV attacks the immune system, leading to AIDS if untreated. It’s spread by blood, sex, and mother-to-child. Without treatment, infections and cancers may develop.
+
+Prevention
+Safe sex
+
+Avoid sharing needles
+
+regular screening for high-risk groups
+
+Medication
+Antiretroviral therapy (ART) lifelong
+
+Vaccine Required
+No vaccine yet; research ongoing
+
+15. Chikungunya
+Symptoms
+Severe joint pain
+
+High fever
+
+Muscle pain
+
+Rash
+
+Headache
+
+Disease Definition
+Chikungunya is a viral infection spread by Aedes mosquitoes. It is rarely fatal but causes debilitating joint pain, fever, and rash.
+
+Prevention
+Mosquito control
+
+Personal protection (nets, repellents)
+
+Medication
+Symptom management (painkillers, fluids)
+
+Vaccine Required
+No vaccine available yet
+
+16. Pneumonia
+Symptoms
+High fever
+
+Chest pain
+
+Cough with sputum
+
+Difficulty breathing
+
+Fatigue
+
+Disease Definition
+Pneumonia is a lung infection that can be bacterial, viral, or fungal. It’s serious, especially for infants and the elderly, and can result in respiratory failure.
+
+Prevention
+Hand hygiene
+
+Vaccination
+
+Avoid smoking
+
+Medication
+Antibiotics, antivirals based on cause, oxygen support
+
+Vaccine Required
+Pneumococcal and influenza vaccines recommended for children, elderly
+
+17. Bronchitis
+Symptoms
+Cough
+
+Wheezing
+
+Sore throat
+
+Chest tightness
+
+Shortness of breath
+
+Disease Definition
+Bronchitis is inflammation of bronchial tubes mainly caused by infections or irritants like smoke. It leads to persistent cough and breathing issues.
+
+Prevention
+No smoking
+
+Avoid pollutants
+
+Good hand hygiene
+
+Medication
+Cough suppressants, bronchodilators, antibiotics if bacterial
+
+Vaccine Required
+Influenza vaccine for prevention
+
+18. Asthma
+Symptoms
+Wheezing
+
+Shortness of breath
+
+Chest tightness
+
+Coughing
+
+Difficulty sleeping
+
+Disease Definition
+Asthma is a chronic respiratory disease causing spasm and inflammation of airways. Attacks may be triggered by dust, pollen, or exercise.
+
+Prevention
+Avoid triggers
+
+Maintain clean living spaces
+
+Regular check-ups
+
+Medication
+Inhalers (bronchodilators, steroids)
+
+Vaccine Required
+No direct vaccine; flu, pneumonia vaccine advised for asthmatic patients
+
+19. Typhoid
+Symptoms
+Persistent fever
+
+Headache
+
+Stomach pain
+
+Weakness
+
+Rash (rose spots)
+
+Disease Definition
+Typhoid is a bacterial infection from contaminated water/food, leading to fever, gastrointestinal upset, and potentially serious complications.
+
+Prevention
+Avoid street food
+
+Safe drinking water
+
+Good sanitation
+
+Medication
+Antibiotics (ceftriaxone, azithromycin)
+
+Vaccine Required
+Typhoid vaccine recommended for travelers and risk groups
+
+20. Measles
+Symptoms
+High fever
+
+Runny nose
+
+Cough
+
+Red watery eyes
+
+Red rash (starts on face)
+
+Disease Definition
+Measles is a highly contagious viral illness. It spreads through droplets and can cause serious complications, especially in children.
+
+Prevention
+Measles vaccination
+
+Avoid contact with infected individuals
+
+Medication
+Supportive (rest, fluids, fever medication)
+
+Vaccine Required
+Measles vaccine (part of MMR) is essential, given at childhood
+
+21. Mumps
+Symptoms
+Swollen face/jaw
+
+Fever
+
+Headache
+
+Muscle aches
+
+Fatigue
+
+Disease Definition
+Mumps is a viral infection affecting salivary glands, causing painful swelling and fever. Complications can affect the brain and reproductive organs.
+
+Prevention
+Mumps vaccination
+
+Avoid close contact with infected persons
+
+Medication
+Supportive, pain/fever management
+
+Vaccine Required
+Mumps vaccine (MMR) essential for children
+
+22. Rubella
+Symptoms
+Mild fever
+
+Rash (starts on face)
+
+Swollen lymph nodes
+
+Joint pain
+
+Red eyes
+
+Disease Definition
+Rubella (“German measles”) is a viral illness with mild fever and rash, dangerous in pregnancy due to birth defects.
+
+Prevention
+Rubella vaccine
+
+Avoid contact during outbreaks
+
+Medication
+Supportive (rest, fluids)
+
+Vaccine Required
+Rubella vaccine (MMR) essential
+
+23. Polio
+Symptoms
+Fever
+
+Sore throat
+
+Stiff neck
+
+Muscle weakness
+
+Paralysis
+
+Disease Definition
+Polio is a virus attacking the nervous system, leading to paralysis in children. Widespread vaccination has reduced cases but vigilance is needed.
+
+Prevention
+Polio vaccination
+
+Hygiene/sanitation
+
+Medication
+Supportive; physiotherapy for paralysis
+
+Vaccine Required
+Polio vaccines (OPV/IPV) mandatory for children
+
+24. Chickenpox
+Symptoms
+Fever
+
+Rash and blisters
+
+Itching
+
+Fatigue
+
+Loss of appetite
+
+Disease Definition
+Chickenpox is a highly contagious viral infection causing a blistering rash, mostly in children, but can be severe in adults.
+
+Prevention
+Chickenpox vaccine
+
+Avoid contact with infected persons
+
+Medication
+Antivirals (acyclovir for severe cases), supportive care
+
+Vaccine Required
+Chickenpox vaccine recommended
+
+25. Influenza
+Symptoms
+High fever
+
+Chills
+
+Sore throat
+
+Cough
+
+Muscle aches
+
+Disease Definition
+Influenza (flu) is an acute viral infection affecting the nose, throat, and lungs, causing high fever and malaise seasonally.
+
+Prevention
+Annual flu vaccine
+
+Hand hygiene
+
+Mask use during outbreaks
+
+Medication
+Antivirals (oseltamivir), supportive care
+
+Vaccine Required
+Annual influenza vaccine essential for high-risk groups
+
+26. Diphtheria
+Symptoms
+Sore throat
+
+Fever
+
+Swollen glands
+
+Breathing difficulty
+
+Thick gray patches in throat
+
+Disease Definition
+Diphtheria is an acute bacterial disease affecting throat and airways, can cause severe breathing problems and organ damage.
+
+Prevention
+DPT vaccination
+
+Avoid contact during outbreaks
+
+Medication
+Antitoxin, antibiotics (penicillin/erythromycin)
+
+Vaccine Required
+DPT vaccine (diphtheria component) mandatory for children
+
+27. Tetanus
+Symptoms
+Jaw stiffness (“lockjaw”)
+
+Muscle spasms
+
+Difficulty swallowing
+
+Fever
+
+Sweating
+
+Disease Definition
+Tetanus is caused by bacterial toxin from wounds, leading to severe muscular contractions and can be fatal.
+
+Prevention
+Proper wound care
+
+Tetanus vaccination
+
+Medication
+Antitoxin, antibiotics (metronidazole), muscle relaxants
+
+Vaccine Required
+Regular tetanus vaccination (DPT/TT) crucial
+
+28. Pertussis (Whooping Cough)
+Symptoms
+Severe coughing fits
+
+“Whooping” sound after coughing
+
+Vomiting after cough
+
+Runny nose
+
+Fatigue
+
+Disease Definition
+Pertussis is a bacterial infection causing spasmodic cough, dangerous for infants and young children.
+
+Prevention
+DPT vaccination
+
+Avoid contact during outbreaks
+
+Medication
+Antibiotics (azithromycin, erythromycin)
+
+Vaccine Required
+DPT vaccine for pertussis prevention
+
+29. Rheumatic Heart Disease
+Symptoms
+Chest pain
+
+Fatigue
+
+Swollen joints
+
+Shortness of breath
+
+Heart murmur
+
+Disease Definition
+Rheumatic heart disease is damage to heart valves from rheumatic fever (post-streptococcal infection). It leads to chronic cardiac issues lasting years.
+
+Prevention
+Prompt antibiotic treatment for strep throat
+
+Regular follow-ups for heart health
+
+Medication
+Long-term antibiotics, valve surgery in severe cases
+
+Vaccine Required
+No vaccine; focus on strep throat prevention
+
+30. Stroke
+Symptoms
+Sudden numbness/weakness (especially one side)
+
+Confusion
+
+Difficulty speaking
+
+Sudden vision loss
+
+Severe headache
+
+Disease Definition
+Stroke is sudden interruption of blood supply to the brain, due to either clot or bleeding. Disability or death can occur quickly without treatment.
+
+Prevention
+Manage blood pressure
+
+Control diabetes
+
+No smoking
+
+Medication
+Thrombolytics, anticoagulants, rehabilitation therapies
+
+Vaccine Required
+No vaccine; focus on risk factor management
+
+31. COVID-19
+Symptoms
+Fever
+
+Dry cough
+
+Difficulty breathing
+
+Loss of taste or smell
+
+Fatigue
+
+Disease Definition
+COVID-19 is a viral respiratory disease caused by SARS-CoV-2, highly transmissible and associated with respiratory and systemic complications.
+
+Prevention
+Masks and hand hygiene
+
+Social distancing
+
+Vaccination
+
+Medication
+Supportive care, antivirals (remdesivir), corticosteroids
+
+Vaccine Required
+COVID-19 vaccines recommended for all adults and eligible children
+
+32. Kidney Disease (Chronic Kidney Disease)
+Symptoms
+Fatigue
+
+Swelling in feet/ankles
+
+Poor appetite
+
+Frequent urination (especially at night)
+
+Muscle cramps
+
+Disease Definition
+Chronic renal failure involves progressive loss of kidney function, often secondary to diabetes or hypertension, leading to systemic illness.
+
+Prevention
+Control diabetes/hypertension
+
+Limit salt/protein intake
+
+Regular tests
+
+Medication
+Blood pressure medicines, diuretics; dialysis for end-stage
+
+Vaccine Required
+No specific kidney disease vaccine
+
+33. Cancer (Generic Overview)
+Symptoms
+Unexplained weight loss
+
+Persistent pain
+
+Fatigue
+
+Abnormal lumps
+
+Bleeding/discharge
+
+Disease Definition
+Cancer is uncontrolled cell growth in any organ; common types include breast, oral, lung, cervical, and gastrointestinal cancers.
+
+Prevention
+Avoid tobacco/alcohol
+
+Regular screening
+
+Healthy diet/weight
+
+Medication
+Chemotherapy, radiation, surgery depending on type
+
+Vaccine Required
+HPV vaccine for cervical cancer, Hepatitis B for liver cancer
+
+34. Coronary Artery Disease
+Symptoms
+Chest pain (angina)
+
+Shortness of breath
+
+Sweating
+
+Nausea
+
+Palpitations
+
+Disease Definition
+Coronary artery disease (CAD) is narrowing of heart arteries due to plaque, leading to heart attacks and heart failure.
+
+Prevention
+Low-fat diet
+
+Regular exercise
+
+Control blood pressure
+
+Medication
+Statins, aspirin, beta-blockers
+
+Vaccine Required
+No CAD vaccine
+
+35. Chronic Obstructive Pulmonary Disease (COPD)
+Symptoms
+Cough with sputum
+
+Shortness of breath
+
+Wheezing
+
+Fatigue
+
+Frequent chest infections
+
+Disease Definition
+COPD is a group of progressive lung diseases (emphysema/bronchitis), mainly due to smoking or pollution.
+
+Prevention
+No smoking
+
+Protect against air pollution
+
+Avoid respiratory irritants
+
+Medication
+Inhalers (bronchodilators, steroids), antibiotics for infections
+
+Vaccine Required
+Influenza and pneumococcal vaccines for prevention
+
+36. Alzheimer’s Disease
+Symptoms
+Memory loss
+
+Confusion
+
+Mood swings
+
+Difficulty speaking
+
+Poor judgment
+
+Disease Definition
+Alzheimer’s is a degenerative brain disorder leading to progressive cognitive decline and dementia.
+
+Prevention
+Mental stimulation
+
+Control cardiovascular risks
+
+Healthy lifestyle
+
+Medication
+Memory drugs (donepezil, memantine)
+
+Vaccine Required
+No vaccine available
+
+37. Plague
+Symptoms
+Sudden fever
+
+Headache
+
+Nausea
+
+Swollen lymph nodes
+
+Abdominal pain
+
+Disease Definition
+Plague is a severe zoonotic bacterial disease; outbreaks still rare but deadly if untreated.
+
+Prevention
+Vector control
+
+Avoid contact with rodents
+
+Medication
+Antibiotics (streptomycin, gentamicin)
+
+Vaccine Required
+Not part of routine immunization
+
+38. Japanese Encephalitis
+Symptoms
+Headache
+
+High fever
+
+Mental confusion
+
+Neck stiffness
+
+Seizures
+
+Disease Definition
+Acute viral brain infection spread by mosquitoes, prevalent in rural India.
+
+Prevention
+JE vaccination
+
+Mosquito control
+
+Medication
+Supportive care
+
+Vaccine Required
+JE vaccine for children in endemic regions
+
+39. Meningitis
+Symptoms
+Severe headache
+
+Neck stiffness
+
+Fever
+
+Vomiting
+
+Sensitivity to light
+
+Disease Definition
+Meningitis is infection/inflammation of brain and spinal cord membranes, can be bacterial or viral, fast progressing.
+
+Prevention
+Vaccination
+
+Avoid close contact during outbreaks
+
+Medication
+Antibiotics or antivirals depending on cause
+
+Vaccine Required
+Meningococcal, Hib, pneumococcal vaccines
+
+40. Acute Encephalitis Syndrome (AES)
+Symptoms
+Fever
+
+Irritability
+
+Headache
+
+Drowsiness
+
+Seizures
+
+Disease Definition
+AES comprises multiple viral and bacterial infections causing sudden inflammation of the brain, mostly affecting children.
+
+Prevention
+JE vaccination
+
+Mosquito control
+
+Medication
+Supportive; antivirals/antibiotics for specific causes
+
+Vaccine Required
+JE and other vaccines per guidelines
+
+41. Hepatitis A
+Symptoms
+Fever
+
+Jaundice
+
+Nausea
+
+Abdominal pain
+
+Loss of appetite
+
+Disease Definition
+Hepatitis A is a viral liver infection via contaminated food/water; usually self-limiting.
+
+Prevention
+Good hygiene
+
+Safe drinking water
+
+Vaccination
+
+Medication
+Supportive care
+
+Vaccine Required
+Hepatitis A vaccine for children/adults at risk
+
+42. Hepatitis E
+Symptoms
+Nausea
+
+Fever
+
+Jaundice
+
+Abdominal pain
+
+Fatigue
+
+Disease Definition
+Hepatitis E, food/water-borne viral liver infection, especially dangerous for pregnant women.
+
+Prevention
+Safe water
+
+Hygiene
+
+Medication
+Supportive care
+
+Vaccine Required
+Not widely available; focus on prevention
+
+43. Rhinitis
+Symptoms
+Sneezing
+
+Nasal congestion
+
+Runny nose
+
+Itchy eyes
+
+Headache
+
+Disease Definition
+Rhinitis is inflammation of nasal mucous membrane, caused by allergies/infections.
+
+Prevention
+Avoid allergens
+
+Good home ventilation
+
+Medication
+Antihistamines, nasal sprays
+
+Vaccine Required
+No vaccine for allergic rhinitis
+
+44. Scabies
+Symptoms
+Intense itching
+
+Rash
+
+Red bumps
+
+Sores
+
+Skin thickening
+
+Disease Definition
+Scabies is a contagious skin infestation by mites, causing severe itching and rash, highly transmissible.
+
+Prevention
+Avoid close contact
+
+Treat all family members simultaneously
+
+Medication
+Topical creams (permethrin)
+
+Vaccine Required
+No vaccine available
+
+45. Filariasis
+Symptoms
+Swelling of limbs
+
+Fever
+
+Skin thickening
+
+Pain
+
+Enlarged lymph nodes
+
+Disease Definition
+Filariasis is a parasitic infection transmitted by mosquitoes, leading to lymphatic damage and disability.
+
+Prevention
+Mosquito control
+
+Avoid night outdoors
+
+Medication
+Antiparasitic drugs (diethylcarbamazine)
+
+Vaccine Required
+No vaccine available
+
+46. Leprosy
+Symptoms
+Skin lesions
+
+Numbness
+
+Weakness of hands/feet
+
+Eye problems
+
+Loss of sensation
+
+Disease Definition
+Leprosy is a slow-progressing bacterial infection affecting nerves and skin, still reported in India.
+
+Prevention
+Early detection
+
+Avoid close prolonged contact
+
+Medication
+Multi-drug therapy (MDT)
+
+Vaccine Required
+No vaccine
+
+47. Rabies
+Symptoms
+Fever
+
+Hydrophobia
+
+Confusion
+
+Excess salivation
+
+Hallucinations
+
+Disease Definition
+Rabies is a fatal viral brain infection from animal bites, especially dogs.
+
+Prevention
+Vaccinate pets
+
+Avoid stray animals
+
+Medication
+Immediate post-exposure vaccination
+
+Vaccine Required
+Rabies vaccine for exposed individuals
+
+48. Dysentery
+Symptoms
+Bloody diarrhea
+
+Abdominal pain
+
+Fever
+
+Nausea
+
+Fatigue
+
+Disease Definition
+Dysentery is an intestinal infection (bacterial/amoebic) causing bloody diarrhea and dehydration.
+
+Prevention
+Safe water/food
+
+Good hand hygiene
+
+Medication
+Antibiotics/antiparasitics, rehydration
+
+Vaccine Required
+No vaccine for dysentery
+
+49. Conjunctivitis
+Symptoms
+Red eyes
+
+Watery discharge
+
+Itching
+
+Swelling
+
+Light sensitivity
+
+Disease Definition
+Conjunctivitis (“pink eye”) is infection/allergy of the eye lining, highly contagious in schools.
+
+Prevention
+Good hand hygiene
+
+Avoid sharing towels
+
+Medication
+Antibiotic eyedrops for bacterial, antihistamines for allergic
+
+Vaccine Required
+No vaccine
+
+50. Tonsillitis
+Symptoms
+Sore throat
+
+Difficulty swallowing
+
+Fever
+
+Swollen tonsils
+
+Ear pain
+
+Disease Definition
+Tonsillitis is infection/inflammation of tonsils, mostly viral or bacterial, more common in children.
+
+Prevention
+Avoid close contact
+
+Maintain oral hygiene
+
+Medication
+Pain relievers, antibiotics if bacterial
+
+Vaccine Required
+No vaccine
+
+51. Otitis Media
+Symptoms
+Ear pain
+
+Hearing problems
+
+Discharge
+
+Fever
+
+Irritability (children)
+
+Disease Definition
+Otitis media is middle ear infection, common in infants/young children, needs attention to prevent complications.
+
+Prevention
+Manage colds
+
+Breastfeeding lowers risk for infants
+
+Medication
+Pain relievers, antibiotics
+
+Vaccine Required
+Pneumococcal/Hib vaccines prevent some cases
+
+52. Sinusitis
+Symptoms
+Facial pain
+
+Congestion
+
+Headache
+
+Fever
+
+Thick nasal discharge
+
+Disease Definition
+Sinusitis is inflammation/infection of sinuses, often after a cold or allergies.
+
+Prevention
+Manage allergies/colds
+
+Avoid pollutants
+
+Medication
+Nasal saline, antibiotics for bacterial
+
+Vaccine Required
+No vaccine
+
+53. Goiter (from Iodine Deficiency)
+Symptoms
+Neck swelling
+
+Difficulty swallowing
+
+Cough
+
+Hoarseness
+
+Fatigue
+
+Disease Definition
+Goiter is thyroid gland swelling due to iodine deficiency; common in certain Indian regions.
+
+Prevention
+Iodized salt intake
+
+Balanced diet
+
+Medication
+Thyroid hormone supplements
+
+Vaccine Required
+No vaccine
+
+54. Rickets
+Symptoms
+Bowed legs
+
+Bone pain
+
+Delayed growth
+
+Dental problems
+
+Weakness
+
+Disease Definition
+Rickets is defective bone development from vitamin D/calcium deficiency, mainly in children.
+
+Prevention
+Exposure to sunlight
+
+Vitamin D/Calcium rich diet
+
+Medication
+Supplements for vitamin D/calcium
+
+Vaccine Required
+No vaccine
+
+55. Scurvy
+Symptoms
+Bleeding gums
+
+Fatigue
+
+Joint pain
+
+Poor wound healing
+
+Spotty skin
+
+Disease Definition
+Scurvy is a nutritional deficiency of vitamin C, rare but seen if diet lacks fruits/veggies.
+
+Prevention
+Citrus fruits/vegetables in diet
+
+Medication
+Vitamin C supplements
+
+Vaccine Required
+No vaccine
+
+56. Beriberi
+Symptoms
+Swelling
+
+Muscle weakness
+
+Heart problems
+
+Numbness
+
+Trouble walking
+
+Disease Definition
+Beriberi is a deficiency of vitamin B1 (thiamine), causing nerve and heart issues.
+
+Prevention
+Eat whole grains, pulses
+
+Medication
+Thiamine supplements
+
+Vaccine Required
+No vaccine
+
+57. Pellagra
+Symptoms
+Diarrhea
+
+Dermatitis
+
+Dementia
+
+Fatigue
+
+Headache
+
+Disease Definition
+Pellagra results from vitamin B3 (niacin) deficiency, causing skin, GI, and mental symptoms.
+
+Prevention
+Protein/niacin-rich food
+
+Medication
+Niacin supplementation
+
+Vaccine Required
+No vaccine
+
+58. Iron Deficiency Anemia
+Symptoms
+Fatigue
+
+Pale skin
+
+Shortness of breath
+
+Headache
+
+Dizziness
+
+Disease Definition
+Iron deficiency anemia is low hemoglobin due to poor dietary iron, menstrual loss, or malabsorption, very common in Indian women.
+
+Prevention
+Iron-rich food intake
+
+Medication
+Iron supplements
+
+Vaccine Required
+No vaccine
+
+59. Protein Energy Malnutrition
+Symptoms
+Stunted growth
+
+Muscle wasting
+
+Poor immunity
+
+Swelling (kwashiorkor)
+
+Irritability
+
+Disease Definition
+Malnutrition from insufficient protein/calorie intake often affects children in low-income areas.
+
+Prevention
+Balanced diet
+
+Proper child feeding
+
+Medication
+Nutritional rehabilitation
+
+Vaccine Required
+No vaccine
+
+60. Depression (Mental Health)
+Symptoms
+Persistent sadness
+
+Fatigue
+
+Sleep/weight changes
+
+Loss of interest
+
+Difficulty concentration
+
+Disease Definition
+Depression is a mood disorder causing persistent low mood and impacts overall health; increasingly recognized in India.
+
+Prevention
+Stress management
+
+Social support
+
+Medication
+Antidepressant medicines, psychotherapy
+
+Vaccine Required
+No vaccine
+
+add this in Know Disease from Symptoms par and make any changes if required make the symptoms in a format that easy to identify by bot and works fine in backend
